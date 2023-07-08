@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "OrcaBox Tool",
+  "version": "1.0",
+  "permissions": ["scripting", "activeTab"],
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["inject.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
