@@ -14,6 +14,11 @@ namespace FunctionApp6
 {
     public static class Function1
     {
+        public class ResultObject
+        {
+            public string description { get; set; }
+        }
+
         [FunctionName("Function1")]
         public static async Task<IActionResult> Run(
             [HttpTrigger(AuthorizationLevel.Function, "post", Route = null)] HttpRequest req,
@@ -42,7 +47,18 @@ namespace FunctionApp6
             var result = await myPromptTemplate.InvokeAsync(context);
             Console.WriteLine(result.ToString());
 
-            return new OkObjectResult(result.ToString());
+            // Remove newline characters
+            string cleanedResult = result.ToString().Replace("\n", "");
+
+            var responseObject = new ResultObject { description = cleanedResult };
+            var json = JsonConvert.SerializeObject(responseObject);
+
+            return new ContentResult
+            {
+                Content = json,
+                ContentType = "application/json",
+                StatusCode = 200
+            };
         }
     }
 }
