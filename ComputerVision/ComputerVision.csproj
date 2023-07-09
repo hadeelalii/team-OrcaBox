@@ -4,6 +4,8 @@
     <AzureFunctionsVersion>v4</AzureFunctionsVersion>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="Azure.AI.Vision.Common" Version="0.13.0-beta.1" />
+    <PackageReference Include="Azure.AI.Vision.Core" Version="0.10.0-beta.1" />
     <PackageReference Include="Azure.AI.Vision.ImageAnalysis" Version="0.13.0-beta.1" />
     <PackageReference Include="Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime" Version="3.0.0" />
     <PackageReference Include="Microsoft.Azure.CognitiveServices.Vision.ComputerVision" Version="7.0.1" />
