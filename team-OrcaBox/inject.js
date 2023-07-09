@@ -10,6 +10,31 @@ function getImageUrls() {
     return urls;
   }
   
+  async function fetchImageURL() {
+    try {   // Here we will receive the url from the endpoint, that url is unique for each audio uploaded at Azure blob
+      const response = await fetch('http://localhost:7071/api/HttpTrigger_First');
+      if (response.ok) {
+        const data = await response.json();
+        const imageURL = data.url;
+        // handle the image URL
+        console.log(imageURL);
+        return imageURL;
+      } else {
+        // handle the error
+        console.error(`An error occurred: ${response.status}`);
+      }
+    } catch (error) {
+      // handle the error
+      console.error(error);
+    }
+  }
+  /*
+  The response from the endpoint might look like:
+    {
+      "url": "https://example.com/image.jpg"
+    }
+  */
+
   function getBackgroundImages() {
     const elements = document.querySelectorAll('*');
     const urls = [];
