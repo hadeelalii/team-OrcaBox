@@ -1,0 +1,18 @@
+{
+    "caption": "a whale shark swimming in the water",
+    "objects": [
+        "animal"
+    ],
+    "tags": [
+        "animal",
+        "text",
+        "screenshot"
+    ],
+    "ocrText": " ",
+    "landmarks": [
+        null,
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: Blue"
+}

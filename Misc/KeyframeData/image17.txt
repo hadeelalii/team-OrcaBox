@@ -1,0 +1,23 @@
+{
+    "caption": "a woman and a girl looking at a tablet",
+    "objects": [
+        "person",
+        "person"
+    ],
+    "tags": [
+        "human face",
+        "clothing",
+        "person",
+        "smile",
+        "boy",
+        "indoor",
+        "toddler",
+        "wall"
+    ],
+    "ocrText": " 82% GREAT JOB!",
+    "landmarks": [
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: "
+}

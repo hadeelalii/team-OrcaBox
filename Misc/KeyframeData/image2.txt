@@ -1,0 +1,23 @@
+{
+    "caption": "a person hugging a tree",
+    "objects": [
+        "person"
+    ],
+    "tags": [
+        "clothing",
+        "outdoor",
+        "person",
+        "tree",
+        "trunk",
+        "forest",
+        "plant",
+        "sky",
+        "woodland",
+        "grass",
+        "hiking"
+    ],
+    "ocrText": "",
+    "landmarks": [],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: White"
+}

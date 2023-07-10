@@ -1,0 +1,21 @@
+{
+    "caption": "a woman hugging another woman",
+    "objects": [
+        "person"
+    ],
+    "tags": [
+        "person",
+        "indoor",
+        "wall",
+        "clothing",
+        "shoulder",
+        "woman"
+    ],
+    "ocrText": "",
+    "landmarks": [
+        null,
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: White,Black"
+}

@@ -1,0 +1,32 @@
+{
+    "caption": "a group of people looking at a laptop",
+    "objects": [
+        "person",
+        "person",
+        "person",
+        "person",
+        "person",
+        "person",
+        "person",
+        "Laptop"
+    ],
+    "tags": [
+        "person",
+        "clothing",
+        "laptop",
+        "indoor",
+        "human face",
+        "learning",
+        "man",
+        "student",
+        "computer",
+        "job",
+        "people"
+    ],
+    "ocrText": "",
+    "landmarks": [
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: "
+}

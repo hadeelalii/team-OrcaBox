@@ -1,0 +1,16 @@
+{
+    "caption": "a group of small plants growing in dirt",
+    "objects": [],
+    "tags": [
+        "ground",
+        "soil",
+        "compost",
+        "green"
+    ],
+    "ocrText": "",
+    "landmarks": [
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: Brown"
+}

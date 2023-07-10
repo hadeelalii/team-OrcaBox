@@ -1,0 +1,24 @@
+{
+    "caption": "a man and woman looking at a laptop",
+    "objects": [
+        "person",
+        "person"
+    ],
+    "tags": [
+        "person",
+        "laptop",
+        "clothing",
+        "computer",
+        "tree",
+        "human face",
+        "man",
+        "sitting"
+    ],
+    "ocrText": " Al for Earth -",
+    "landmarks": [
+        null,
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: Green,Black"
+}

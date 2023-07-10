@@ -1,0 +1,21 @@
+{
+    "caption": "a person holding a tablet with a baby and a woman",
+    "objects": [
+        "person",
+        "person",
+        "display"
+    ],
+    "tags": [
+        "human face",
+        "baby",
+        "person",
+        "toddler",
+        "tablet computer"
+    ],
+    "ocrText": " SEVERITY SC",
+    "landmarks": [
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: Grey,Brown"
+}

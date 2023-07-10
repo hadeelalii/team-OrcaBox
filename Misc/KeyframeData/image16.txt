@@ -1,0 +1,23 @@
+{
+    "caption": "a woman looking at a girl",
+    "objects": [
+        "person",
+        "person",
+        "person"
+    ],
+    "tags": [
+        "person",
+        "human face",
+        "clothing",
+        "boy",
+        "indoor",
+        "furniture",
+        "chair"
+    ],
+    "ocrText": " Al for Accessibility",
+    "landmarks": [
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: Grey,Black"
+}

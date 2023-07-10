@@ -1,0 +1,14 @@
+{
+    "caption": "a close up of dirt",
+    "objects": [],
+    "tags": [
+        "ground",
+        "outdoor",
+        "soil",
+        "compost"
+    ],
+    "ocrText": "",
+    "landmarks": [],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: Brown"
+}

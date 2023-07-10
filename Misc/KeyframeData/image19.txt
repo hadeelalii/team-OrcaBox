@@ -1,0 +1,20 @@
+{
+    "caption": "a blue butterfly on a leaf",
+    "objects": [
+        "butterfly"
+    ],
+    "tags": [
+        "animal",
+        "butterfly",
+        "invertebrate",
+        "moths and butterflies",
+        "insect"
+    ],
+    "ocrText": "",
+    "landmarks": [
+        null,
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: Green,Black"
+}

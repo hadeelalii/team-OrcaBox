@@ -1,0 +1,28 @@
+{
+    "caption": "a group of zebras in a field",
+    "objects": [
+        "zebra",
+        "zebra"
+    ],
+    "tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "zebra",
+        "grass",
+        "wildlife",
+        "terrestrial animal",
+        "plant",
+        "tree",
+        "safari",
+        "zoo",
+        "herd",
+        "standing"
+    ],
+    "ocrText": "",
+    "landmarks": [
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: Grey"
+}

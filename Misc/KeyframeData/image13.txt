@@ -1,0 +1,19 @@
+{
+    "caption": "a man holding a laptop",
+    "objects": [
+        "person"
+    ],
+    "tags": [
+        "person",
+        "clothing",
+        "tree",
+        "outdoor"
+    ],
+    "ocrText": " Al for Earth",
+    "landmarks": [
+        null,
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: White"
+}

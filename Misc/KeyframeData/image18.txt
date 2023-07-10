@@ -1,0 +1,15 @@
+{
+    "caption": "a close up of a whale's tail",
+    "objects": [],
+    "tags": [
+        "water",
+        "outdoor"
+    ],
+    "ocrText": " Date: 2018-09-21 Location: Uringwn",
+    "landmarks": [
+        null,
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: Grey"
+}

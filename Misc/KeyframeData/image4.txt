@@ -1,0 +1,26 @@
+{
+    "caption": "a man standing in a room with a group of people",
+    "objects": [
+        "person",
+        "person",
+        "person"
+    ],
+    "tags": [
+        "clothing",
+        "person",
+        "indoor",
+        "wall",
+        "man",
+        "whiteboard",
+        "job",
+        "people",
+        "office building"
+    ],
+    "ocrText": " PLAS",
+    "landmarks": [
+        null,
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: White,Black,Grey"
+}

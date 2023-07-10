@@ -1,0 +1,23 @@
+{
+    "caption": "a baby crawling on the floor",
+    "objects": [
+        "person",
+        "person",
+        "person"
+    ],
+    "tags": [
+        "human face",
+        "person",
+        "indoor",
+        "toddler",
+        "baby",
+        "clothing"
+    ],
+    "ocrText": " OUTCOME SCORE 9.0) OPERATION - 11-26-18",
+    "landmarks": [
+        null,
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: Grey,White"
+}

@@ -1,0 +1,29 @@
+{
+    "caption": "a glacier with a body of water with Perito Moreno Glacier in the background",
+    "objects": [],
+    "tags": [
+        "nature",
+        "snow",
+        "water",
+        "outdoor",
+        "ice",
+        "polar ice cap",
+        "glacier",
+        "sea ice",
+        "arctic",
+        "iceberg",
+        "arctic ocean",
+        "melting",
+        "ice cap",
+        "glacial landform",
+        "glacial lake"
+    ],
+    "ocrText": "",
+    "landmarks": [
+        "Perito Moreno Glacier",
+        "Perito Moreno Glacier",
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: White"
+}

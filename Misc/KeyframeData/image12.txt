@@ -1,0 +1,32 @@
+{
+    "caption": "a man looking at a computer screen",
+    "objects": [
+        "person",
+        "television"
+    ],
+    "tags": [
+        "computer",
+        "person",
+        "output device",
+        "indoor",
+        "display device",
+        "computer monitor",
+        "display",
+        "man",
+        "video",
+        "media",
+        "text",
+        "personal computer",
+        "flat panel display",
+        "multimedia",
+        "led-backlit lcd display",
+        "wall"
+    ],
+    "ocrText": " Al for Humanitarian Action",
+    "landmarks": [
+        null,
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The dominant colors in the image are: Grey"
+}

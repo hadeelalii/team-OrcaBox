@@ -1,0 +1,14 @@
+{
+    "caption": "a snow covered mountain with a person standing in front of it",
+    "objects": [],
+    "tags": [
+        "fog",
+        "nature"
+    ],
+    "ocrText": "",
+    "landmarks": [
+        null
+    ],
+    "imageType": "Photo",
+    "colorScheme": "The image is black and white"
+}
