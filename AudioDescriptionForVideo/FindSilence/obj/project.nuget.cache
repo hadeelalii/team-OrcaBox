@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbnsnkUxsVnxzI+tPfyjQsUXg9rTc/yXPRIcQg9gQW3jkKbN/zMLfqOIrTtA6ItpjdxqtO7LlB2RWDbDOBW9lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\t-sofiayang\\source\\repos\\FindSilence\\FindSilence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\ffmpeg.autogen\\6.0.0.2\\ffmpeg.autogen.6.0.0.2.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\medallionshell\\1.6.1\\medallionshell.1.6.1.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\mediatoolkit\\1.1.0.1\\mediatoolkit.1.1.0.1.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\mediatoolkit.netcore\\0.2.1-preview\\mediatoolkit.netcore.0.2.1-preview.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\naudio\\2.1.0\\naudio.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\naudio.asio\\2.1.0\\naudio.asio.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\naudio.wasapi\\2.1.0\\naudio.wasapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\naudio.winmm\\2.1.0\\naudio.winmm.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\system.io.abstractions\\9.0.4\\system.io.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.7.0\\system.io.filesystem.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\t-sofiayang\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MediaToolkit 1.1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MediaToolkit",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
