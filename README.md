@@ -47,9 +47,11 @@ Looking forward
 ## Technologies Used
 
 **Extension/Frontend**
+
 HTML5, Edge Extensions Framework
 
 **Azure Cognitive Services**
+
 [Azure OpenAI Services](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service) (Utilized GPT davinci model)
 
 [Cognitive Speech Services](https://azure.microsoft.com/en-us/products/cognitive-services/speech-services/)
@@ -57,6 +59,7 @@ HTML5, Edge Extensions Framework
 [Cognitive Service for Vision](https://azure.microsoft.com/en-us/products/cognitive-services/vision-services)
 
 **Libraries/SDK**
+
 [Semantic Kernel SDK](https://github.com/microsoft/semantic-kernel)
 
 [FFmpeg](https://ffmpeg.org/)
