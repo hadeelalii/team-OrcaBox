@@ -41,7 +41,7 @@ Note that to fit the structure of an Edge Extension, some additional infrastruct
 
 [Text-to-Speech Function App](https://github.com/hadeelalii/team-OrcaBox/tree/main/Text-To-Speech)
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+
 
 ## Misc
 Handwritten Proposal of Audio-description generation proposal by Sofia
