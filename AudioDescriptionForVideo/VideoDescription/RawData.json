@@ -1,0 +1,5229 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "15a593b6-ec01-4668-b75a-678f5ca89de4",
+  "id": "9ff4c5985a",
+  "name": "videoplayback (1)",
+  "userName": "SOFIA YANG",
+  "created": "2023-07-09T00:22:52.1666667+00:00",
+  "isOwned": true,
+  "isEditable": false,
+  "isBase": true,
+  "durationInSeconds": 100,
+  "duration": "0:01:40.475375",
+  "summarizedInsights": null,
+  "videos": [
+    {
+      "accountId": "15a593b6-ec01-4668-b75a-678f5ca89de4",
+      "id": "9ff4c5985a",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureCode": "None",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:01:40.475375",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [ "en-US" ],
+        "language": "en-US",
+        "languages": [ "en-US" ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Like never before, our world is changing. Faced with some of our most critical challenges, human ingenuity triumphs. Today, the Microsoft AI for Good initiative enables a person with an idea to accelerate it, to give it scale, to create change for the better.",
+            "confidence": 0.9337,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Microsoft AI will help our work by empowering people to take action.",
+            "confidence": 0.9337,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:28.92",
+                "start": "0:00:25",
+                "end": "0:00:28.92"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "Through AI for Earth, photos can now help save a species. With AI for accessibility, the visual world becomes an audible experience.",
+            "confidence": 0.9349,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.94",
+                "adjustedEnd": "0:00:38.82",
+                "start": "0:00:29.94",
+                "end": "0:00:38.82"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Sanitarian peanut butter.",
+            "confidence": 0.9349,
+            "speakerId": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39.1",
+                "adjustedEnd": "0:00:40.5",
+                "start": "0:00:39.1",
+                "end": "0:00:40.5"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "And with AI for humanitarian action, first responders can target their efforts faster than ever before.",
+            "confidence": 0.9349,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:40.98",
+                "adjustedEnd": "0:00:47.5",
+                "start": "0:00:40.98",
+                "end": "0:00:47.5"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "It feels humbling to know that I'm actually helping another human being.",
+            "confidence": 0.9349,
+            "speakerId": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48.02",
+                "adjustedEnd": "0:00:52.98",
+                "start": "0:00:48.02",
+                "end": "0:00:52.98"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Today, we are empowering others to forge new paths.",
+            "confidence": 0.9349,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53.94",
+                "adjustedEnd": "0:00:57.7",
+                "start": "0:00:53.94",
+                "end": "0:00:57.7"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "To fight famine before crisis strikes and protect ecosystems by identifying forests down to a single tree.",
+            "confidence": 0.9393,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58.02",
+                "adjustedEnd": "0:01:05.3",
+                "start": "0:00:58.02",
+                "end": "0:01:05.3"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "We have the forest that we have today. We can't change that. What we can change is the future.",
+            "confidence": 0.9393,
+            "speakerId": 4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:05.42",
+                "adjustedEnd": "0:01:10.42",
+                "start": "0:01:05.42",
+                "end": "0:01:10.42"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Microsoft AI is fueling some of the most passionate and creative people on our planet with the help of citizen scientists to make change once thought impossible real.",
+            "confidence": 0.9393,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10.94",
+                "adjustedEnd": "0:01:21.62",
+                "start": "0:01:10.94",
+                "end": "0:01:21.62"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "AI will know and understand and model based on the child interaction.",
+            "confidence": 0.9393,
+            "speakerId": 5,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:22.26",
+                "adjustedEnd": "0:01:26.66",
+                "start": "0:01:22.26",
+                "end": "0:01:26.66"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "AI unleashes new possibilities to impact our world, and together, we're not just dreaming it, we're doing it.",
+            "confidence": 0.8935,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:27.64",
+                "adjustedEnd": "0:01:35",
+                "start": "0:01:27.64",
+                "end": "0:01:35"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "927.15",
+            "confidence": 0.956,
+            "left": 113,
+            "top": 162,
+            "width": 28,
+            "height": 9,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46.046",
+                "adjustedEnd": "0:00:46.0877083",
+                "start": "0:00:46.046",
+                "end": "0:00:46.0877083"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "04",
+            "confidence": 0.998,
+            "left": 126,
+            "top": 99,
+            "width": 15,
+            "height": 11,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:17.077",
+                "adjustedEnd": "0:01:17.1187083",
+                "start": "0:01:17.077",
+                "end": "0:01:17.1187083"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "01",
+            "confidence": 0.994,
+            "left": 102,
+            "top": 162,
+            "width": 14,
+            "height": 10,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:17.077",
+                "adjustedEnd": "0:01:17.1187083",
+                "start": "0:01:17.077",
+                "end": "0:01:17.1187083"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "80",
+            "confidence": 0.998,
+            "left": 299,
+            "top": 59,
+            "width": 60,
+            "height": 52,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:27.087",
+                "adjustedEnd": "0:01:27.1287083",
+                "start": "0:01:27.087",
+                "end": "0:01:27.1287083"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "OUTCOME SCORE",
+            "confidence": 0.998,
+            "left": 423,
+            "top": 258,
+            "width": 147,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:24.024",
+                "adjustedEnd": "0:00:24.0657083",
+                "start": "0:00:24.024",
+                "end": "0:00:24.0657083"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Al for Earth",
+            "confidence": 0.9643,
+            "left": 32,
+            "top": 18,
+            "width": 117,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25.025",
+                "adjustedEnd": "0:00:27.0687083",
+                "start": "0:00:25.025",
+                "end": "0:00:27.0687083"
+              },
+              {
+                "adjustedStart": "0:01:01.061",
+                "adjustedEnd": "0:01:06.1077083",
+                "start": "0:01:01.061",
+                "end": "0:01:06.1077083"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "E.",
+            "confidence": 0.938,
+            "left": 68,
+            "top": 222,
+            "width": 37,
+            "height": 20,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:28.0697083",
+                "start": "0:00:28.028",
+                "end": "0:00:28.0697083"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "Al for Accessibility",
+            "confidence": 0.9587,
+            "left": 32,
+            "top": 17,
+            "width": 185,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:34.034",
+                "adjustedEnd": "0:00:36.0777083",
+                "start": "0:00:34.034",
+                "end": "0:00:36.0777083"
+              },
+              {
+                "adjustedStart": "0:01:21.081",
+                "adjustedEnd": "0:01:24.1257083",
+                "start": "0:01:21.081",
+                "end": "0:01:24.1257083"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "Sanitarium",
+            "confidence": 0.992,
+            "left": 503,
+            "top": 180,
+            "width": 63,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:37.037",
+                "adjustedEnd": "0:00:37.0787083",
+                "start": "0:00:37.037",
+                "end": "0:00:37.0787083"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "sm",
+            "confidence": 0.978,
+            "left": 149,
+            "top": 201,
+            "width": 25,
+            "height": 27,
+            "angle": 12,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:37.037",
+                "adjustedEnd": "0:00:37.0787083",
+                "start": "0:00:37.037",
+                "end": "0:00:37.0787083"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Al for Humanitarian Action",
+            "confidence": 0.9715,
+            "left": 32,
+            "top": 18,
+            "width": 270,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:43.0847083",
+                "start": "0:00:41.041",
+                "end": "0:00:43.0847083"
+              },
+              {
+                "adjustedStart": "0:00:56.056",
+                "adjustedEnd": "0:00:58.0997083",
+                "start": "0:00:56.056",
+                "end": "0:00:58.0997083"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "Alex Aguedelo",
+            "confidence": 0.9965,
+            "left": 422,
+            "top": 238,
+            "width": 100,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53.053",
+                "adjustedEnd": "0:00:53.0947083",
+                "start": "0:00:53.053",
+                "end": "0:00:53.0947083"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Sr. Service Engineer",
+            "confidence": 0.9967,
+            "left": 421,
+            "top": 257,
+            "width": 120,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53.053",
+                "adjustedEnd": "0:00:53.0947083",
+                "start": "0:00:53.053",
+                "end": "0:00:53.0947083"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Microsoft",
+            "confidence": 0.998,
+            "left": 287,
+            "top": 168,
+            "width": 107,
+            "height": 23,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53.053",
+                "adjustedEnd": "0:00:53.0947083",
+                "start": "0:00:53.053",
+                "end": "0:00:53.0947083"
+              },
+              {
+                "adjustedStart": "0:01:39.099",
+                "adjustedEnd": "0:01:40.1417083",
+                "start": "0:01:39.099",
+                "end": "0:01:40.1417083"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "Max Nova",
+            "confidence": 0.996,
+            "left": 105,
+            "top": 157,
+            "width": 79,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10.07",
+                "adjustedEnd": "0:01:10.1117083",
+                "start": "0:01:10.07",
+                "end": "0:01:10.1117083"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "SilviaTerra",
+            "confidence": 0.991,
+            "left": 104,
+            "top": 179,
+            "width": 67,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10.07",
+                "adjustedEnd": "0:01:10.1117083",
+                "start": "0:01:10.07",
+                "end": "0:01:10.1117083"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "Al for Earth Grantee",
+            "confidence": 0.9858,
+            "left": 104,
+            "top": 196,
+            "width": 135,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10.07",
+                "adjustedEnd": "0:01:10.1117083",
+                "start": "0:01:10.07",
+                "end": "0:01:10.1117083"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "E-145",
+            "confidence": 0.998,
+            "left": 197,
+            "top": 50,
+            "width": 36,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:17.077",
+                "adjustedEnd": "0:01:17.1187083",
+                "start": "0:01:17.077",
+                "end": "0:01:17.1187083"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "E-176",
+            "confidence": 0.998,
+            "left": 116,
+            "top": 81,
+            "width": 39,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:17.077",
+                "adjustedEnd": "0:01:17.1187083",
+                "start": "0:01:17.077",
+                "end": "0:01:17.1187083"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "E-023",
+            "confidence": 0.998,
+            "left": 90,
+            "top": 145,
+            "width": 39,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:17.077",
+                "adjustedEnd": "0:01:17.1187083",
+                "start": "0:01:17.077",
+                "end": "0:01:17.1187083"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "There are so many animals to see.",
+            "confidence": 0.9924,
+            "left": 378,
+            "top": 178,
+            "width": 208,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:23.083",
+                "adjustedEnd": "0:01:24.1257083",
+                "start": "0:01:23.083",
+                "end": "0:01:24.1257083"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "Can you count the animals with me?",
+            "confidence": 0.9951,
+            "left": 378,
+            "top": 193,
+            "width": 225,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:23.083",
+                "adjustedEnd": "0:01:24.1257083",
+                "start": "0:01:23.083",
+                "end": "0:01:24.1257083"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "Ayanna Howard, Ph.D.",
+            "confidence": 0.9913,
+            "left": 62,
+            "top": 219,
+            "width": 174,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:25.085",
+                "adjustedEnd": "0:01:26.1277083",
+                "start": "0:01:25.085",
+                "end": "0:01:26.1277083"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "Zyrobotics",
+            "confidence": 0.995,
+            "left": 63,
+            "top": 241,
+            "width": 75,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:26.086",
+                "adjustedEnd": "0:01:26.1277083",
+                "start": "0:01:26.086",
+                "end": "0:01:26.1277083"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "Al for Accessibility Grantee",
+            "confidence": 0.9853,
+            "left": 63,
+            "top": 261,
+            "width": 183,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:26.086",
+                "adjustedEnd": "0:01:26.1277083",
+                "start": "0:01:26.086",
+                "end": "0:01:26.1277083"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "GREAT JOB!",
+            "confidence": 0.997,
+            "left": 397,
+            "top": 39,
+            "width": 207,
+            "height": 35,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:28.088",
+                "adjustedEnd": "0:01:28.1297083",
+                "start": "0:01:28.088",
+                "end": "0:01:28.1297083"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "PP",
+            "confidence": 0.965,
+            "left": 503,
+            "top": 194,
+            "width": 27,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:28.088",
+                "adjustedEnd": "0:01:28.1297083",
+                "start": "0:01:28.088",
+                "end": "0:01:28.1297083"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "Al for Good",
+            "confidence": 0.965,
+            "left": 250,
+            "top": 165,
+            "width": 137,
+            "height": 24,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:36.096",
+                "adjustedEnd": "0:01:37.1387083",
+                "start": "0:01:36.096",
+                "end": "0:01:37.1387083"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "microsoft ai",
+            "confidence": 0.9961,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:28.92",
+                "start": "0:00:25",
+                "end": "0:00:28.92"
+              },
+              {
+                "adjustedStart": "0:01:10.94",
+                "adjustedEnd": "0:01:21.62",
+                "start": "0:01:10.94",
+                "end": "0:01:21.62"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "humanitarian action",
+            "confidence": 0.9954,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:40.98",
+                "adjustedEnd": "0:00:47.5",
+                "start": "0:00:40.98",
+                "end": "0:00:47.5"
+              },
+              {
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:43.0847083",
+                "start": "0:00:41.041",
+                "end": "0:00:43.0847083"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "microsoft",
+            "confidence": 0.8665,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:28.92",
+                "start": "0:00:25",
+                "end": "0:00:28.92"
+              },
+              {
+                "adjustedStart": "0:01:10.94",
+                "adjustedEnd": "0:01:21.62",
+                "start": "0:01:10.94",
+                "end": "0:01:21.62"
+              },
+              {
+                "adjustedStart": "0:00:53.053",
+                "adjustedEnd": "0:00:53.0947083",
+                "start": "0:00:53.053",
+                "end": "0:00:53.0947083"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "action",
+            "confidence": 0.8478,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:28.92",
+                "start": "0:00:25",
+                "end": "0:00:28.92"
+              },
+              {
+                "adjustedStart": "0:00:40.98",
+                "adjustedEnd": "0:00:47.5",
+                "start": "0:00:40.98",
+                "end": "0:00:47.5"
+              },
+              {
+                "adjustedStart": "0:01:22.26",
+                "adjustedEnd": "0:01:26.66",
+                "start": "0:01:22.26",
+                "end": "0:01:26.66"
+              },
+              {
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:43.0847083",
+                "start": "0:00:41.041",
+                "end": "0:00:43.0847083"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "empowering",
+            "confidence": 0.8041,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:28.92",
+                "start": "0:00:25",
+                "end": "0:00:28.92"
+              },
+              {
+                "adjustedStart": "0:00:53.94",
+                "adjustedEnd": "0:00:57.7",
+                "start": "0:00:53.94",
+                "end": "0:00:57.7"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "change",
+            "confidence": 0.8041,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              },
+              {
+                "adjustedStart": "0:01:05.42",
+                "adjustedEnd": "0:01:10.42",
+                "start": "0:01:05.42",
+                "end": "0:01:10.42"
+              },
+              {
+                "adjustedStart": "0:01:10.94",
+                "adjustedEnd": "0:01:21.62",
+                "start": "0:01:10.94",
+                "end": "0:01:21.62"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "world",
+            "confidence": 0.7514,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              },
+              {
+                "adjustedStart": "0:00:29.94",
+                "adjustedEnd": "0:00:38.82",
+                "start": "0:00:29.94",
+                "end": "0:00:38.82"
+              },
+              {
+                "adjustedStart": "0:01:27.64",
+                "adjustedEnd": "0:01:35",
+                "start": "0:01:27.64",
+                "end": "0:01:35"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "earth",
+            "confidence": 0.7514,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.94",
+                "adjustedEnd": "0:00:38.82",
+                "start": "0:00:29.94",
+                "end": "0:00:38.82"
+              },
+              {
+                "adjustedStart": "0:00:25.025",
+                "adjustedEnd": "0:00:27.0687083",
+                "start": "0:00:25.025",
+                "end": "0:00:27.0687083"
+              },
+              {
+                "adjustedStart": "0:01:10.07",
+                "adjustedEnd": "0:01:10.1117083",
+                "start": "0:01:10.07",
+                "end": "0:01:10.1117083"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "accessibility",
+            "confidence": 0.7514,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.94",
+                "adjustedEnd": "0:00:38.82",
+                "start": "0:00:29.94",
+                "end": "0:00:38.82"
+              },
+              {
+                "adjustedStart": "0:00:34.034",
+                "adjustedEnd": "0:00:36.0777083",
+                "start": "0:00:34.034",
+                "end": "0:00:36.0777083"
+              },
+              {
+                "adjustedStart": "0:01:26.086",
+                "adjustedEnd": "0:01:26.1277083",
+                "start": "0:01:26.086",
+                "end": "0:01:26.1277083"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "today",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              },
+              {
+                "adjustedStart": "0:00:53.94",
+                "adjustedEnd": "0:00:57.7",
+                "start": "0:00:53.94",
+                "end": "0:00:57.7"
+              },
+              {
+                "adjustedStart": "0:01:05.42",
+                "adjustedEnd": "0:01:10.42",
+                "start": "0:01:05.42",
+                "end": "0:01:10.42"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "human",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              },
+              {
+                "adjustedStart": "0:00:40.98",
+                "adjustedEnd": "0:00:47.5",
+                "start": "0:00:40.98",
+                "end": "0:00:47.5"
+              },
+              {
+                "adjustedStart": "0:00:48.02",
+                "adjustedEnd": "0:00:52.98",
+                "start": "0:00:48.02",
+                "end": "0:00:52.98"
+              },
+              {
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:43.0847083",
+                "start": "0:00:41.041",
+                "end": "0:00:43.0847083"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "forest",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58.02",
+                "adjustedEnd": "0:01:05.3",
+                "start": "0:00:58.02",
+                "end": "0:01:05.3"
+              },
+              {
+                "adjustedStart": "0:01:05.42",
+                "adjustedEnd": "0:01:10.42",
+                "start": "0:01:05.42",
+                "end": "0:01:10.42"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "animals",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:23.083",
+                "adjustedEnd": "0:01:24.1257083",
+                "start": "0:01:23.083",
+                "end": "0:01:24.1257083"
+              },
+              {
+                "adjustedStart": "0:01:23.083",
+                "adjustedEnd": "0:01:24.1257083",
+                "start": "0:01:23.083",
+                "end": "0:01:24.1257083"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "good",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              },
+              {
+                "adjustedStart": "0:01:36.096",
+                "adjustedEnd": "0:01:37.1387083",
+                "start": "0:01:36.096",
+                "end": "0:01:37.1387083"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Environmentalism",
+            "referenceId": "Environment/The Environment/Environmentalism",
+            "referenceType": "VideoIndexer",
+            "iptcName": "environment/climate change",
+            "confidence": 0.9972,
+            "iabName": "Environment",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53.94",
+                "adjustedEnd": "0:01:10.42",
+                "start": "0:00:53.94",
+                "end": "0:01:10.42"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Science",
+            "referenceId": "Science",
+            "referenceType": "VideoIndexer",
+            "iptcName": "science and technology",
+            "confidence": 0.8105,
+            "iabName": "Science",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.94",
+                "adjustedEnd": "0:00:47.5",
+                "start": "0:00:29.94",
+                "end": "0:00:47.5"
+              },
+              {
+                "adjustedStart": "0:01:10.94",
+                "adjustedEnd": "0:01:35",
+                "start": "0:01:10.94",
+                "end": "0:01:35"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Technology",
+            "referenceId": "Education/Technology",
+            "referenceType": "VideoIndexer",
+            "iptcName": "science and technology",
+            "confidence": 0.7382,
+            "iabName": "Education",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:47.5",
+                "start": "0:00:01.28",
+                "end": "0:00:47.5"
+              },
+              {
+                "adjustedStart": "0:01:10.94",
+                "adjustedEnd": "0:01:35",
+                "start": "0:01:10.94",
+                "end": "0:01:35"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Innovation",
+            "referenceId": "Technology/Social Change/Innovation",
+            "referenceType": "VideoIndexer",
+            "iptcName": "science and technology/scientific research/scientific innovation",
+            "confidence": 0.6912,
+            "iabName": "Technology & Computing",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              },
+              {
+                "adjustedStart": "0:01:10.94",
+                "adjustedEnd": "0:01:21.62",
+                "start": "0:01:10.94",
+                "end": "0:01:21.62"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Artificial Intelligence",
+            "referenceId": "Science/Cognitive Science/Artificial Intelligence",
+            "referenceType": "VideoIndexer",
+            "iptcName": "science and technology/technology and engineering/information technology and computer science/artificial intelligence",
+            "confidence": 0.678,
+            "iabName": "Science",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:47.5",
+                "start": "0:00:01.28",
+                "end": "0:00:47.5"
+              },
+              {
+                "adjustedStart": "0:01:10.94",
+                "adjustedEnd": "0:01:35",
+                "start": "0:01:10.94",
+                "end": "0:01:35"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Machine Learning",
+            "referenceId": "Science/Mathematics/Machine Learning",
+            "referenceType": "VideoIndexer",
+            "iptcName": "science and technology/technology and engineering/information technology and computer science/artificial intelligence",
+            "confidence": 0.6121,
+            "iabName": "Science",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.94",
+                "adjustedEnd": "0:00:47.5",
+                "start": "0:00:29.94",
+                "end": "0:00:47.5"
+              },
+              {
+                "adjustedStart": "0:01:10.94",
+                "adjustedEnd": "0:01:26.66",
+                "start": "0:01:10.94",
+                "end": "0:01:26.66"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 1128,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "59407513-a33f-4174-a9f0-5d9f1c0af7c6",
+            "title": null,
+            "imageUrl": null,
+            "thumbnails": [
+              {
+                "id": "59407513-a33f-4174-a9f0-5d9f1c0af7c6",
+                "fileName": "FaceInstanceThumbnail_59407513-a33f-4174-a9f0-5d9f1c0af7c6.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:22.1237083",
+                    "adjustedEnd": "0:01:22.1654166",
+                    "start": "0:01:22.1237083",
+                    "end": "0:01:22.1654166"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [ "59407513-a33f-4174-a9f0-5d9f1c0af7c6" ],
+                "adjustedStart": "0:01:20.6222083",
+                "adjustedEnd": "0:01:24.209125",
+                "start": "0:01:20.6222083",
+                "end": "0:01:24.209125"
+              },
+              {
+                "adjustedStart": "0:01:31.2995417",
+                "adjustedEnd": "0:01:34.0105833",
+                "start": "0:01:31.2995417",
+                "end": "0:01:34.0105833"
+              }
+            ]
+          },
+          {
+            "id": 1170,
+            "name": "Unknown #2",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "cdc29b4f-873d-442b-a9e0-6c69721e5ca1",
+            "title": null,
+            "imageUrl": null,
+            "thumbnails": [
+              {
+                "id": "cdc29b4f-873d-442b-a9e0-6c69721e5ca1",
+                "fileName": "FaceInstanceThumbnail_cdc29b4f-873d-442b-a9e0-6c69721e5ca1.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:32.217125",
+                    "adjustedEnd": "0:01:32.2588333",
+                    "start": "0:01:32.217125",
+                    "end": "0:01:32.2588333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:26.5030833",
+                "adjustedEnd": "0:01:28.5467917",
+                "start": "0:01:26.5030833",
+                "end": "0:01:28.5467917"
+              },
+              {
+                "thumbnailsIds": [ "cdc29b4f-873d-442b-a9e0-6c69721e5ca1" ],
+                "adjustedStart": "0:01:31.2995417",
+                "adjustedEnd": "0:01:34.0105833",
+                "start": "0:01:31.2995417",
+                "end": "0:01:34.0105833"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "nature",
+            "referenceId": "nature",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9936,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:03.0447083",
+                "start": "0:00:01.001",
+                "end": "0:00:03.0447083"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "glacier",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9735,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:03.0447083",
+                "start": "0:00:01.001",
+                "end": "0:00:03.0447083"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "snow",
+            "referenceId": "natural phenomenon/weather/snow",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9708,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:03.0447083",
+                "start": "0:00:01.001",
+                "end": "0:00:03.0447083"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "ice",
+            "referenceId": "matter/solid/ice",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9647,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:03.0447083",
+                "start": "0:00:01.001",
+                "end": "0:00:03.0447083"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "polar ice cap",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9657,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:03.0447083",
+                "start": "0:00:01.001",
+                "end": "0:00:03.0447083"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "sea ice",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9561,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:02.0437083",
+                "start": "0:00:01.001",
+                "end": "0:00:02.0437083"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "iceberg",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9539,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:02.0437083",
+                "start": "0:00:01.001",
+                "end": "0:00:02.0437083"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "water",
+            "referenceId": "matter/liquid/water",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9533,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:01.0427083",
+                "start": "0:00:01.001",
+                "end": "0:00:01.0427083"
+              },
+              {
+                "confidence": 0.9547,
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0447083",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0447083"
+              },
+              {
+                "confidence": 0.9598,
+                "adjustedStart": "0:01:29.089",
+                "adjustedEnd": "0:01:29.1307083",
+                "start": "0:01:29.089",
+                "end": "0:01:29.1307083"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "arctic",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9513,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:02.0437083",
+                "start": "0:00:01.001",
+                "end": "0:00:02.0437083"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "outdoor",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.98,
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:10.0517083",
+                "start": "0:00:03.003",
+                "end": "0:00:10.0517083"
+              },
+              {
+                "confidence": 0.9987,
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:29.0707083",
+                "start": "0:00:28.028",
+                "end": "0:00:29.0707083"
+              },
+              {
+                "confidence": 0.9985,
+                "adjustedStart": "0:00:32.032",
+                "adjustedEnd": "0:00:33.0747083",
+                "start": "0:00:32.032",
+                "end": "0:00:33.0747083"
+              },
+              {
+                "confidence": 0.9951,
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:43.0847083",
+                "start": "0:00:41.041",
+                "end": "0:00:43.0847083"
+              },
+              {
+                "confidence": 0.9905,
+                "adjustedStart": "0:00:48.048",
+                "adjustedEnd": "0:00:48.0897083",
+                "start": "0:00:48.048",
+                "end": "0:00:48.0897083"
+              },
+              {
+                "confidence": 0.981,
+                "adjustedStart": "0:00:54.054",
+                "adjustedEnd": "0:00:55.0967083",
+                "start": "0:00:54.054",
+                "end": "0:00:55.0967083"
+              },
+              {
+                "confidence": 0.9513,
+                "adjustedStart": "0:01:07.067",
+                "adjustedEnd": "0:01:07.1087083",
+                "start": "0:01:07.067",
+                "end": "0:01:07.1087083"
+              },
+              {
+                "confidence": 0.9941,
+                "adjustedStart": "0:01:11.071",
+                "adjustedEnd": "0:01:12.1137083",
+                "start": "0:01:11.071",
+                "end": "0:01:12.1137083"
+              },
+              {
+                "confidence": 0.9551,
+                "adjustedStart": "0:01:16.076",
+                "adjustedEnd": "0:01:17.1187083",
+                "start": "0:01:16.076",
+                "end": "0:01:17.1187083"
+              },
+              {
+                "confidence": 0.9858,
+                "adjustedStart": "0:01:19.079",
+                "adjustedEnd": "0:01:20.1217083",
+                "start": "0:01:19.079",
+                "end": "0:01:20.1217083"
+              },
+              {
+                "confidence": 0.9761,
+                "adjustedStart": "0:01:29.089",
+                "adjustedEnd": "0:01:29.1307083",
+                "start": "0:01:29.089",
+                "end": "0:01:29.1307083"
+              },
+              {
+                "confidence": 0.9678,
+                "adjustedStart": "0:01:32.092",
+                "adjustedEnd": "0:01:33.1347083",
+                "start": "0:01:32.092",
+                "end": "0:01:33.1347083"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "sky",
+            "referenceId": "atmosphere/sky",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9825,
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:05.0467083",
+                "start": "0:00:04.004",
+                "end": "0:00:05.0467083"
+              },
+              {
+                "confidence": 0.9776,
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:28.0697083",
+                "start": "0:00:28.028",
+                "end": "0:00:28.0697083"
+              },
+              {
+                "confidence": 0.9637,
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:42.0837083",
+                "start": "0:00:41.041",
+                "end": "0:00:42.0837083"
+              },
+              {
+                "confidence": 0.9978,
+                "adjustedStart": "0:00:48.048",
+                "adjustedEnd": "0:00:48.0897083",
+                "start": "0:00:48.048",
+                "end": "0:00:48.0897083"
+              },
+              {
+                "confidence": 0.9586,
+                "adjustedStart": "0:00:55.055",
+                "adjustedEnd": "0:00:55.0967083",
+                "start": "0:00:55.055",
+                "end": "0:00:55.0967083"
+              },
+              {
+                "confidence": 0.9704,
+                "adjustedStart": "0:01:12.072",
+                "adjustedEnd": "0:01:12.1137083",
+                "start": "0:01:12.072",
+                "end": "0:01:12.1137083"
+              },
+              {
+                "confidence": 0.9588,
+                "adjustedStart": "0:01:16.076",
+                "adjustedEnd": "0:01:16.1177083",
+                "start": "0:01:16.076",
+                "end": "0:01:16.1177083"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "tree",
+            "referenceId": "plant/tree",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9628,
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:08.0497083",
+                "start": "0:00:04.004",
+                "end": "0:00:08.0497083"
+              },
+              {
+                "confidence": 0.9582,
+                "adjustedStart": "0:00:10.01",
+                "adjustedEnd": "0:00:10.0517083",
+                "start": "0:00:10.01",
+                "end": "0:00:10.0517083"
+              },
+              {
+                "confidence": 0.9621,
+                "adjustedStart": "0:00:25.025",
+                "adjustedEnd": "0:00:25.0667083",
+                "start": "0:00:25.025",
+                "end": "0:00:25.0667083"
+              },
+              {
+                "confidence": 0.975,
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:28.0697083",
+                "start": "0:00:28.028",
+                "end": "0:00:28.0697083"
+              },
+              {
+                "confidence": 0.965,
+                "adjustedStart": "0:00:54.054",
+                "adjustedEnd": "0:00:55.0967083",
+                "start": "0:00:54.054",
+                "end": "0:00:55.0967083"
+              },
+              {
+                "confidence": 0.9948,
+                "adjustedStart": "0:01:11.071",
+                "adjustedEnd": "0:01:12.1137083",
+                "start": "0:01:11.071",
+                "end": "0:01:12.1137083"
+              },
+              {
+                "confidence": 0.9536,
+                "adjustedStart": "0:01:33.093",
+                "adjustedEnd": "0:01:33.1347083",
+                "start": "0:01:33.093",
+                "end": "0:01:33.1347083"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9943,
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:10.0517083",
+                "start": "0:00:09.009",
+                "end": "0:00:10.0517083"
+              },
+              {
+                "confidence": 0.996,
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:17.0587083",
+                "start": "0:00:17.017",
+                "end": "0:00:17.0587083"
+              },
+              {
+                "confidence": 0.9888,
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0607083",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0607083"
+              },
+              {
+                "confidence": 0.9826,
+                "adjustedStart": "0:00:25.025",
+                "adjustedEnd": "0:00:25.0667083",
+                "start": "0:00:25.025",
+                "end": "0:00:25.0667083"
+              },
+              {
+                "confidence": 0.9864,
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:28.0697083",
+                "start": "0:00:28.028",
+                "end": "0:00:28.0697083"
+              },
+              {
+                "confidence": 0.9939,
+                "adjustedStart": "0:00:34.034",
+                "adjustedEnd": "0:00:36.0777083",
+                "start": "0:00:34.034",
+                "end": "0:00:36.0777083"
+              },
+              {
+                "confidence": 0.9695,
+                "adjustedStart": "0:00:43.043",
+                "adjustedEnd": "0:00:43.0847083",
+                "start": "0:00:43.043",
+                "end": "0:00:43.0847083"
+              },
+              {
+                "confidence": 0.9897,
+                "adjustedStart": "0:00:49.049",
+                "adjustedEnd": "0:00:53.0947083",
+                "start": "0:00:49.049",
+                "end": "0:00:53.0947083"
+              },
+              {
+                "confidence": 0.973,
+                "adjustedStart": "0:00:56.056",
+                "adjustedEnd": "0:00:57.0987083",
+                "start": "0:00:56.056",
+                "end": "0:00:57.0987083"
+              },
+              {
+                "confidence": 0.9806,
+                "adjustedStart": "0:00:59.059",
+                "adjustedEnd": "0:00:59.1007083",
+                "start": "0:00:59.059",
+                "end": "0:00:59.1007083"
+              },
+              {
+                "confidence": 0.9946,
+                "adjustedStart": "0:01:09.069",
+                "adjustedEnd": "0:01:10.1117083",
+                "start": "0:01:09.069",
+                "end": "0:01:10.1117083"
+              },
+              {
+                "confidence": 0.9671,
+                "adjustedStart": "0:01:14.074",
+                "adjustedEnd": "0:01:15.1167083",
+                "start": "0:01:14.074",
+                "end": "0:01:15.1167083"
+              },
+              {
+                "confidence": 0.9805,
+                "adjustedStart": "0:01:18.078",
+                "adjustedEnd": "0:01:19.1207083",
+                "start": "0:01:18.078",
+                "end": "0:01:19.1207083"
+              },
+              {
+                "confidence": 0.9944,
+                "adjustedStart": "0:01:21.081",
+                "adjustedEnd": "0:01:21.1227083",
+                "start": "0:01:21.081",
+                "end": "0:01:21.1227083"
+              },
+              {
+                "confidence": 0.9812,
+                "adjustedStart": "0:01:25.085",
+                "adjustedEnd": "0:01:28.1297083",
+                "start": "0:01:25.085",
+                "end": "0:01:28.1297083"
+              },
+              {
+                "confidence": 0.998,
+                "adjustedStart": "0:01:32.092",
+                "adjustedEnd": "0:01:33.1347083",
+                "start": "0:01:32.092",
+                "end": "0:01:33.1347083"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "person",
+            "referenceId": "person",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9828,
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:10.0517083",
+                "start": "0:00:09.009",
+                "end": "0:00:10.0517083"
+              },
+              {
+                "confidence": 0.989,
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:25.0667083",
+                "start": "0:00:17.017",
+                "end": "0:00:25.0667083"
+              },
+              {
+                "confidence": 0.9916,
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:28.0697083",
+                "start": "0:00:28.028",
+                "end": "0:00:28.0697083"
+              },
+              {
+                "confidence": 0.9946,
+                "adjustedStart": "0:00:34.034",
+                "adjustedEnd": "0:00:39.0807083",
+                "start": "0:00:34.034",
+                "end": "0:00:39.0807083"
+              },
+              {
+                "confidence": 0.9605,
+                "adjustedStart": "0:00:43.043",
+                "adjustedEnd": "0:00:43.0847083",
+                "start": "0:00:43.043",
+                "end": "0:00:43.0847083"
+              },
+              {
+                "confidence": 0.9839,
+                "adjustedStart": "0:00:49.049",
+                "adjustedEnd": "0:00:53.0947083",
+                "start": "0:00:49.049",
+                "end": "0:00:53.0947083"
+              },
+              {
+                "confidence": 0.9912,
+                "adjustedStart": "0:00:56.056",
+                "adjustedEnd": "0:00:57.0987083",
+                "start": "0:00:56.056",
+                "end": "0:00:57.0987083"
+              },
+              {
+                "confidence": 0.9949,
+                "adjustedStart": "0:00:59.059",
+                "adjustedEnd": "0:01:01.1027083",
+                "start": "0:00:59.059",
+                "end": "0:01:01.1027083"
+              },
+              {
+                "confidence": 0.9965,
+                "adjustedStart": "0:01:09.069",
+                "adjustedEnd": "0:01:10.1117083",
+                "start": "0:01:09.069",
+                "end": "0:01:10.1117083"
+              },
+              {
+                "confidence": 0.9948,
+                "adjustedStart": "0:01:14.074",
+                "adjustedEnd": "0:01:15.1167083",
+                "start": "0:01:14.074",
+                "end": "0:01:15.1167083"
+              },
+              {
+                "confidence": 0.9986,
+                "adjustedStart": "0:01:18.078",
+                "adjustedEnd": "0:01:18.1197083",
+                "start": "0:01:18.078",
+                "end": "0:01:18.1197083"
+              },
+              {
+                "confidence": 0.9785,
+                "adjustedStart": "0:01:21.081",
+                "adjustedEnd": "0:01:28.1297083",
+                "start": "0:01:21.081",
+                "end": "0:01:28.1297083"
+              },
+              {
+                "confidence": 0.9978,
+                "adjustedStart": "0:01:32.092",
+                "adjustedEnd": "0:01:33.1347083",
+                "start": "0:01:32.092",
+                "end": "0:01:33.1347083"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "trunk",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9532,
+                "adjustedStart": "0:00:10.01",
+                "adjustedEnd": "0:00:10.0517083",
+                "start": "0:00:10.01",
+                "end": "0:00:10.0517083"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "sport",
+            "referenceId": "event/act/sport",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9969,
+                "adjustedStart": "0:00:11.011",
+                "adjustedEnd": "0:00:12.0537083",
+                "start": "0:00:11.011",
+                "end": "0:00:12.0537083"
+              },
+              {
+                "confidence": 0.9911,
+                "adjustedStart": "0:00:14.014",
+                "adjustedEnd": "0:00:14.0557083",
+                "start": "0:00:14.014",
+                "end": "0:00:14.0557083"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "swimming",
+            "referenceId": "activity/sport/swimming",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9855,
+                "adjustedStart": "0:00:11.011",
+                "adjustedEnd": "0:00:12.0537083",
+                "start": "0:00:11.011",
+                "end": "0:00:12.0537083"
+              },
+              {
+                "confidence": 0.9816,
+                "adjustedStart": "0:00:14.014",
+                "adjustedEnd": "0:00:14.0557083",
+                "start": "0:00:14.014",
+                "end": "0:00:14.0557083"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "animal",
+            "referenceId": "organism/animal",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9892,
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0577083",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0577083"
+              },
+              {
+                "confidence": 0.9998,
+                "adjustedStart": "0:00:29.029",
+                "adjustedEnd": "0:00:33.0747083",
+                "start": "0:00:29.029",
+                "end": "0:00:33.0747083"
+              },
+              {
+                "confidence": 0.984,
+                "adjustedStart": "0:01:13.073",
+                "adjustedEnd": "0:01:13.1147083",
+                "start": "0:01:13.073",
+                "end": "0:01:13.1147083"
+              },
+              {
+                "confidence": 0.9909,
+                "adjustedStart": "0:01:29.089",
+                "adjustedEnd": "0:01:30.1317083",
+                "start": "0:01:29.089",
+                "end": "0:01:30.1317083"
+              },
+              {
+                "confidence": 0.9986,
+                "adjustedStart": "0:01:34.094",
+                "adjustedEnd": "0:01:34.1357083",
+                "start": "0:01:34.094",
+                "end": "0:01:34.1357083"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.977,
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:16.0577083",
+                "start": "0:00:16.016",
+                "end": "0:00:16.0577083"
+              },
+              {
+                "confidence": 0.9942,
+                "adjustedStart": "0:00:18.018",
+                "adjustedEnd": "0:00:18.0597083",
+                "start": "0:00:18.018",
+                "end": "0:00:18.0597083"
+              },
+              {
+                "confidence": 0.978,
+                "adjustedStart": "0:00:26.026",
+                "adjustedEnd": "0:00:27.0687083",
+                "start": "0:00:26.026",
+                "end": "0:00:27.0687083"
+              },
+              {
+                "confidence": 0.9516,
+                "adjustedStart": "0:00:56.056",
+                "adjustedEnd": "0:00:56.0977083",
+                "start": "0:00:56.056",
+                "end": "0:00:56.0977083"
+              },
+              {
+                "confidence": 0.9587,
+                "adjustedStart": "0:00:58.058",
+                "adjustedEnd": "0:00:58.0997083",
+                "start": "0:00:58.058",
+                "end": "0:00:58.0997083"
+              },
+              {
+                "confidence": 0.9725,
+                "adjustedStart": "0:01:02.062",
+                "adjustedEnd": "0:01:03.1047083",
+                "start": "0:01:02.062",
+                "end": "0:01:03.1047083"
+              },
+              {
+                "confidence": 0.9956,
+                "adjustedStart": "0:01:12.072",
+                "adjustedEnd": "0:01:12.1137083",
+                "start": "0:01:12.072",
+                "end": "0:01:12.1137083"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "indoor",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9751,
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:17.0587083",
+                "start": "0:00:17.017",
+                "end": "0:00:17.0587083"
+              },
+              {
+                "confidence": 0.9873,
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:24.0657083",
+                "start": "0:00:22.022",
+                "end": "0:00:24.0657083"
+              },
+              {
+                "confidence": 0.9808,
+                "adjustedStart": "0:00:34.034",
+                "adjustedEnd": "0:00:34.0757083",
+                "start": "0:00:34.034",
+                "end": "0:00:34.0757083"
+              },
+              {
+                "confidence": 0.9572,
+                "adjustedStart": "0:00:36.036",
+                "adjustedEnd": "0:00:36.0777083",
+                "start": "0:00:36.036",
+                "end": "0:00:36.0777083"
+              },
+              {
+                "confidence": 0.9882,
+                "adjustedStart": "0:00:49.049",
+                "adjustedEnd": "0:00:52.0937083",
+                "start": "0:00:49.049",
+                "end": "0:00:52.0937083"
+              },
+              {
+                "confidence": 0.9889,
+                "adjustedStart": "0:00:56.056",
+                "adjustedEnd": "0:00:57.0987083",
+                "start": "0:00:56.056",
+                "end": "0:00:57.0987083"
+              },
+              {
+                "confidence": 0.9887,
+                "adjustedStart": "0:01:14.074",
+                "adjustedEnd": "0:01:15.1167083",
+                "start": "0:01:14.074",
+                "end": "0:01:15.1167083"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "name": "wall",
+            "referenceId": "structure/wall",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9704,
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:17.0587083",
+                "start": "0:00:17.017",
+                "end": "0:00:17.0587083"
+              },
+              {
+                "confidence": 0.977,
+                "adjustedStart": "0:00:34.034",
+                "adjustedEnd": "0:00:34.0757083",
+                "start": "0:00:34.034",
+                "end": "0:00:34.0757083"
+              },
+              {
+                "confidence": 0.9639,
+                "adjustedStart": "0:00:36.036",
+                "adjustedEnd": "0:00:36.0777083",
+                "start": "0:00:36.036",
+                "end": "0:00:36.0777083"
+              },
+              {
+                "confidence": 0.9757,
+                "adjustedStart": "0:00:49.049",
+                "adjustedEnd": "0:00:52.0937083",
+                "start": "0:00:49.049",
+                "end": "0:00:52.0937083"
+              },
+              {
+                "confidence": 0.9616,
+                "adjustedStart": "0:00:57.057",
+                "adjustedEnd": "0:00:57.0987083",
+                "start": "0:00:57.057",
+                "end": "0:00:57.0987083"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9562,
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:18.0597083",
+                "start": "0:00:17.017",
+                "end": "0:00:18.0597083"
+              },
+              {
+                "confidence": 0.9593,
+                "adjustedStart": "0:00:34.034",
+                "adjustedEnd": "0:00:34.0757083",
+                "start": "0:00:34.034",
+                "end": "0:00:34.0757083"
+              },
+              {
+                "confidence": 0.9896,
+                "adjustedStart": "0:00:53.053",
+                "adjustedEnd": "0:00:53.0947083",
+                "start": "0:00:53.053",
+                "end": "0:00:53.0947083"
+              },
+              {
+                "confidence": 0.9623,
+                "adjustedStart": "0:00:57.057",
+                "adjustedEnd": "0:00:57.0987083",
+                "start": "0:00:57.057",
+                "end": "0:00:57.0987083"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "name": "computer",
+            "referenceId": "device/machine/computer",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9798,
+                "adjustedStart": "0:00:18.018",
+                "adjustedEnd": "0:00:18.0597083",
+                "start": "0:00:18.018",
+                "end": "0:00:18.0597083"
+              },
+              {
+                "confidence": 0.9767,
+                "adjustedStart": "0:00:25.025",
+                "adjustedEnd": "0:00:25.0667083",
+                "start": "0:00:25.025",
+                "end": "0:00:25.0667083"
+              },
+              {
+                "confidence": 0.985,
+                "adjustedStart": "0:00:56.056",
+                "adjustedEnd": "0:00:58.0997083",
+                "start": "0:00:56.056",
+                "end": "0:00:58.0997083"
+              },
+              {
+                "confidence": 0.9514,
+                "adjustedStart": "0:01:15.075",
+                "adjustedEnd": "0:01:15.1167083",
+                "start": "0:01:15.075",
+                "end": "0:01:15.1167083"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "name": "laptop",
+            "referenceId": "computer/portable computer/laptop",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9794,
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0607083",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0607083"
+              },
+              {
+                "confidence": 0.9929,
+                "adjustedStart": "0:00:25.025",
+                "adjustedEnd": "0:00:25.0667083",
+                "start": "0:00:25.025",
+                "end": "0:00:25.0667083"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9897,
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:25.0667083",
+                "start": "0:00:20.02",
+                "end": "0:00:25.0667083"
+              },
+              {
+                "confidence": 0.9777,
+                "adjustedStart": "0:00:51.051",
+                "adjustedEnd": "0:00:51.0927083",
+                "start": "0:00:51.051",
+                "end": "0:00:51.0927083"
+              },
+              {
+                "confidence": 0.9979,
+                "adjustedStart": "0:00:53.053",
+                "adjustedEnd": "0:00:53.0947083",
+                "start": "0:00:53.053",
+                "end": "0:00:53.0947083"
+              },
+              {
+                "confidence": 0.981,
+                "adjustedStart": "0:00:59.059",
+                "adjustedEnd": "0:00:59.1007083",
+                "start": "0:00:59.059",
+                "end": "0:00:59.1007083"
+              },
+              {
+                "confidence": 0.9944,
+                "adjustedStart": "0:01:09.069",
+                "adjustedEnd": "0:01:10.1117083",
+                "start": "0:01:09.069",
+                "end": "0:01:10.1117083"
+              },
+              {
+                "confidence": 0.9945,
+                "adjustedStart": "0:01:18.078",
+                "adjustedEnd": "0:01:18.1197083",
+                "start": "0:01:18.078",
+                "end": "0:01:18.1197083"
+              },
+              {
+                "confidence": 0.995,
+                "adjustedStart": "0:01:21.081",
+                "adjustedEnd": "0:01:28.1297083",
+                "start": "0:01:21.081",
+                "end": "0:01:28.1297083"
+              },
+              {
+                "confidence": 0.9984,
+                "adjustedStart": "0:01:32.092",
+                "adjustedEnd": "0:01:33.1347083",
+                "start": "0:01:32.092",
+                "end": "0:01:33.1347083"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "name": "baby",
+            "referenceId": "person/baby",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9573,
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:21.0627083",
+                "start": "0:00:21.021",
+                "end": "0:00:21.0627083"
+              },
+              {
+                "confidence": 0.9535,
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:24.0657083",
+                "start": "0:00:23.023",
+                "end": "0:00:24.0657083"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "name": "boy",
+            "referenceId": "person/male child/child/boy",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9506,
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:22.0637083",
+                "start": "0:00:22.022",
+                "end": "0:00:22.0637083"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "name": "toddler",
+            "referenceId": "person/toddler",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9693,
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:24.0657083",
+                "start": "0:00:23.023",
+                "end": "0:00:24.0657083"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "name": "plant",
+            "referenceId": "structure/building complex/plant",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9786,
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:28.0697083",
+                "start": "0:00:28.028",
+                "end": "0:00:28.0697083"
+              },
+              {
+                "confidence": 0.9556,
+                "adjustedStart": "0:00:32.032",
+                "adjustedEnd": "0:00:32.0737083",
+                "start": "0:00:32.032",
+                "end": "0:00:32.0737083"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "name": "zebra",
+            "referenceId": "animal/zebra",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9989,
+                "adjustedStart": "0:00:29.029",
+                "adjustedEnd": "0:00:33.0747083",
+                "start": "0:00:29.029",
+                "end": "0:00:33.0747083"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "name": "grass",
+            "referenceId": "plant/herb/grass",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9985,
+                "adjustedStart": "0:00:29.029",
+                "adjustedEnd": "0:00:29.0707083",
+                "start": "0:00:29.029",
+                "end": "0:00:29.0707083"
+              },
+              {
+                "confidence": 0.9882,
+                "adjustedStart": "0:00:32.032",
+                "adjustedEnd": "0:00:33.0747083",
+                "start": "0:00:32.032",
+                "end": "0:00:33.0747083"
+              },
+              {
+                "confidence": 0.9775,
+                "adjustedStart": "0:01:16.076",
+                "adjustedEnd": "0:01:16.1177083",
+                "start": "0:01:16.076",
+                "end": "0:01:16.1177083"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "name": "wildlife",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9684,
+                "adjustedStart": "0:00:29.029",
+                "adjustedEnd": "0:00:30.0717083",
+                "start": "0:00:29.029",
+                "end": "0:00:30.0717083"
+              },
+              {
+                "confidence": 0.9817,
+                "adjustedStart": "0:00:32.032",
+                "adjustedEnd": "0:00:33.0747083",
+                "start": "0:00:32.032",
+                "end": "0:00:33.0747083"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "name": "field",
+            "referenceId": "geographical area/field",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.982,
+                "adjustedStart": "0:00:29.029",
+                "adjustedEnd": "0:00:29.0707083",
+                "start": "0:00:29.029",
+                "end": "0:00:29.0707083"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "name": "terrestrial animal",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9761,
+                "adjustedStart": "0:00:29.029",
+                "adjustedEnd": "0:00:29.0707083",
+                "start": "0:00:29.029",
+                "end": "0:00:29.0707083"
+              },
+              {
+                "confidence": 0.9814,
+                "adjustedStart": "0:00:32.032",
+                "adjustedEnd": "0:00:33.0747083",
+                "start": "0:00:32.032",
+                "end": "0:00:33.0747083"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "name": "safari",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9563,
+                "adjustedStart": "0:00:29.029",
+                "adjustedEnd": "0:00:29.0707083",
+                "start": "0:00:29.029",
+                "end": "0:00:29.0707083"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "name": "building",
+            "referenceId": "structure/building",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9897,
+                "adjustedStart": "0:00:42.042",
+                "adjustedEnd": "0:00:42.0837083",
+                "start": "0:00:42.042",
+                "end": "0:00:42.0837083"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "name": "helmet",
+            "referenceId": "covering/protective covering/helmet",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9798,
+                "adjustedStart": "0:00:43.043",
+                "adjustedEnd": "0:00:43.0847083",
+                "start": "0:00:43.043",
+                "end": "0:00:43.0847083"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "name": "firefighter",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9581,
+                "adjustedStart": "0:00:43.043",
+                "adjustedEnd": "0:00:43.0847083",
+                "start": "0:00:43.043",
+                "end": "0:00:43.0847083"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "name": "map",
+            "referenceId": "creation/representation/map",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9645,
+                "adjustedStart": "0:00:45.045",
+                "adjustedEnd": "0:00:47.0887083",
+                "start": "0:00:45.045",
+                "end": "0:00:47.0887083"
+              },
+              {
+                "confidence": 0.9977,
+                "adjustedStart": "0:01:02.062",
+                "adjustedEnd": "0:01:02.1037083",
+                "start": "0:01:02.062",
+                "end": "0:01:02.1037083"
+              },
+              {
+                "confidence": 0.9783,
+                "adjustedStart": "0:01:06.066",
+                "adjustedEnd": "0:01:06.1077083",
+                "start": "0:01:06.066",
+                "end": "0:01:06.1077083"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "name": "transport",
+            "referenceId": "conveyance/transport",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9995,
+                "adjustedStart": "0:00:48.048",
+                "adjustedEnd": "0:00:48.0897083",
+                "start": "0:00:48.048",
+                "end": "0:00:48.0897083"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "name": "aircraft",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9995,
+                "adjustedStart": "0:00:48.048",
+                "adjustedEnd": "0:00:48.0897083",
+                "start": "0:00:48.048",
+                "end": "0:00:48.0897083"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "name": "vehicle",
+            "referenceId": "instrumentality/conveyance/vehicle",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9725,
+                "adjustedStart": "0:00:48.048",
+                "adjustedEnd": "0:00:48.0897083",
+                "start": "0:00:48.048",
+                "end": "0:00:48.0897083"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "name": "helicopter rotor",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.968,
+                "adjustedStart": "0:00:48.048",
+                "adjustedEnd": "0:00:48.0897083",
+                "start": "0:00:48.048",
+                "end": "0:00:48.0897083"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "name": "flight",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9595,
+                "adjustedStart": "0:00:48.048",
+                "adjustedEnd": "0:00:48.0897083",
+                "start": "0:00:48.048",
+                "end": "0:00:48.0897083"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "name": "rotorcraft",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9504,
+                "adjustedStart": "0:00:48.048",
+                "adjustedEnd": "0:00:48.0897083",
+                "start": "0:00:48.048",
+                "end": "0:00:48.0897083"
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "name": "room",
+            "referenceId": "structure/room",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9653,
+                "adjustedStart": "0:00:49.049",
+                "adjustedEnd": "0:00:49.0907083",
+                "start": "0:00:49.049",
+                "end": "0:00:49.0907083"
+              }
+            ]
+          },
+          {
+            "id": 47,
+            "name": "medical equipment",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9556,
+                "adjustedStart": "0:00:49.049",
+                "adjustedEnd": "0:00:49.0907083",
+                "start": "0:00:49.049",
+                "end": "0:00:49.0907083"
+              }
+            ]
+          },
+          {
+            "id": 48,
+            "name": "cloud",
+            "referenceId": "natural phenomenon/weather/cloud",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9622,
+                "adjustedStart": "0:00:54.054",
+                "adjustedEnd": "0:00:55.0967083",
+                "start": "0:00:54.054",
+                "end": "0:00:55.0967083"
+              },
+              {
+                "confidence": 0.9677,
+                "adjustedStart": "0:01:16.076",
+                "adjustedEnd": "0:01:17.1187083",
+                "start": "0:01:16.076",
+                "end": "0:01:17.1187083"
+              }
+            ]
+          },
+          {
+            "id": 49,
+            "name": "office building",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9692,
+                "adjustedStart": "0:00:57.057",
+                "adjustedEnd": "0:00:57.0987083",
+                "start": "0:00:57.057",
+                "end": "0:00:57.0987083"
+              },
+              {
+                "confidence": 0.9566,
+                "adjustedStart": "0:01:15.075",
+                "adjustedEnd": "0:01:15.1167083",
+                "start": "0:01:15.075",
+                "end": "0:01:15.1167083"
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "name": "ground",
+            "referenceId": "land/ground",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9769,
+                "adjustedStart": "0:01:07.067",
+                "adjustedEnd": "0:01:07.1087083",
+                "start": "0:01:07.067",
+                "end": "0:01:07.1087083"
+              }
+            ]
+          },
+          {
+            "id": 51,
+            "name": "smile",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9642,
+                "adjustedStart": "0:01:09.069",
+                "adjustedEnd": "0:01:09.1107083",
+                "start": "0:01:09.069",
+                "end": "0:01:09.1107083"
+              },
+              {
+                "confidence": 0.9517,
+                "adjustedStart": "0:01:28.088",
+                "adjustedEnd": "0:01:28.1297083",
+                "start": "0:01:28.088",
+                "end": "0:01:28.1297083"
+              },
+              {
+                "confidence": 0.954,
+                "adjustedStart": "0:01:32.092",
+                "adjustedEnd": "0:01:33.1347083",
+                "start": "0:01:32.092",
+                "end": "0:01:33.1347083"
+              }
+            ]
+          },
+          {
+            "id": 52,
+            "name": "pest",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9719,
+                "adjustedStart": "0:01:13.073",
+                "adjustedEnd": "0:01:13.1147083",
+                "start": "0:01:13.073",
+                "end": "0:01:13.1147083"
+              }
+            ]
+          },
+          {
+            "id": 53,
+            "name": "arthropod",
+            "referenceId": "animal/arthropod",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9706,
+                "adjustedStart": "0:01:13.073",
+                "adjustedEnd": "0:01:13.1147083",
+                "start": "0:01:13.073",
+                "end": "0:01:13.1147083"
+              }
+            ]
+          },
+          {
+            "id": 54,
+            "name": "macro photography",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9705,
+                "adjustedStart": "0:01:13.073",
+                "adjustedEnd": "0:01:13.1147083",
+                "start": "0:01:13.073",
+                "end": "0:01:13.1147083"
+              }
+            ]
+          },
+          {
+            "id": 55,
+            "name": "pollinator",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9666,
+                "adjustedStart": "0:01:13.073",
+                "adjustedEnd": "0:01:13.1147083",
+                "start": "0:01:13.073",
+                "end": "0:01:13.1147083"
+              }
+            ]
+          },
+          {
+            "id": 56,
+            "name": "membrane-winged insect",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9573,
+                "adjustedStart": "0:01:13.073",
+                "adjustedEnd": "0:01:13.1147083",
+                "start": "0:01:13.073",
+                "end": "0:01:13.1147083"
+              }
+            ]
+          },
+          {
+            "id": 57,
+            "name": "invertebrate",
+            "referenceId": "animal/invertebrate",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9535,
+                "adjustedStart": "0:01:13.073",
+                "adjustedEnd": "0:01:13.1147083",
+                "start": "0:01:13.073",
+                "end": "0:01:13.1147083"
+              },
+              {
+                "confidence": 0.978,
+                "adjustedStart": "0:01:34.094",
+                "adjustedEnd": "0:01:35.1367083",
+                "start": "0:01:34.094",
+                "end": "0:01:35.1367083"
+              }
+            ]
+          },
+          {
+            "id": 58,
+            "name": "desk",
+            "referenceId": "furniture/table/desk",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9516,
+                "adjustedStart": "0:01:15.075",
+                "adjustedEnd": "0:01:15.1167083",
+                "start": "0:01:15.075",
+                "end": "0:01:15.1167083"
+              }
+            ]
+          },
+          {
+            "id": 59,
+            "name": "lake",
+            "referenceId": "body of water/lake",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9553,
+                "adjustedStart": "0:01:17.077",
+                "adjustedEnd": "0:01:17.1187083",
+                "start": "0:01:17.077",
+                "end": "0:01:17.1187083"
+              }
+            ]
+          },
+          {
+            "id": 60,
+            "name": "forest",
+            "referenceId": "forest",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9887,
+                "adjustedStart": "0:01:19.079",
+                "adjustedEnd": "0:01:19.1207083",
+                "start": "0:01:19.079",
+                "end": "0:01:19.1207083"
+              }
+            ]
+          },
+          {
+            "id": 61,
+            "name": "hiking",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9554,
+                "adjustedStart": "0:01:19.079",
+                "adjustedEnd": "0:01:19.1207083",
+                "start": "0:01:19.079",
+                "end": "0:01:19.1207083"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "girl",
+            "referenceId": "person/child/girl",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9638,
+                "adjustedStart": "0:01:21.081",
+                "adjustedEnd": "0:01:21.1227083",
+                "start": "0:01:21.081",
+                "end": "0:01:21.1227083"
+              }
+            ]
+          },
+          {
+            "id": 63,
+            "name": "aquatic mammal",
+            "referenceId": "animal/aquatic mammal/aquatic mammal",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9667,
+                "adjustedStart": "0:01:29.089",
+                "adjustedEnd": "0:01:30.1317083",
+                "start": "0:01:29.089",
+                "end": "0:01:30.1317083"
+              }
+            ]
+          },
+          {
+            "id": 64,
+            "name": "whale",
+            "referenceId": "animal/whale",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9667,
+                "adjustedStart": "0:01:30.09",
+                "adjustedEnd": "0:01:30.1317083",
+                "start": "0:01:30.09",
+                "end": "0:01:30.1317083"
+              }
+            ]
+          },
+          {
+            "id": 65,
+            "name": "butterfly",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9963,
+                "adjustedStart": "0:01:34.094",
+                "adjustedEnd": "0:01:34.1357083",
+                "start": "0:01:34.094",
+                "end": "0:01:34.1357083"
+              }
+            ]
+          },
+          {
+            "id": 66,
+            "name": "moths and butterflies",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9935,
+                "adjustedStart": "0:01:34.094",
+                "adjustedEnd": "0:01:34.1357083",
+                "start": "0:01:34.094",
+                "end": "0:01:34.1357083"
+              }
+            ]
+          },
+          {
+            "id": 67,
+            "name": "insect",
+            "referenceId": "animal/insect",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9516,
+                "adjustedStart": "0:01:34.094",
+                "adjustedEnd": "0:01:34.1357083",
+                "start": "0:01:34.094",
+                "end": "0:01:34.1357083"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:03.0864167",
+                "start": "0:00:00",
+                "end": "0:00:03.0864167"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.0864167",
+                "adjustedEnd": "0:00:10.9275833",
+                "start": "0:00:03.0864167",
+                "end": "0:00:10.9275833"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.9275833",
+                "adjustedEnd": "0:00:16.141125",
+                "start": "0:00:10.9275833",
+                "end": "0:00:16.141125"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.141125",
+                "adjustedEnd": "0:00:17.4757917",
+                "start": "0:00:16.141125",
+                "end": "0:00:17.4757917"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.4757917",
+                "adjustedEnd": "0:00:19.5195",
+                "start": "0:00:17.4757917",
+                "end": "0:00:19.5195"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.5195",
+                "adjustedEnd": "0:00:21.9802917",
+                "start": "0:00:19.5195",
+                "end": "0:00:21.9802917"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.9802917",
+                "adjustedEnd": "0:00:24.1908333",
+                "start": "0:00:21.9802917",
+                "end": "0:00:24.1908333"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "instances": [
+              {
+                "adjustedStart": "0:00:24.1908333",
+                "adjustedEnd": "0:00:25.6923333",
+                "start": "0:00:24.1908333",
+                "end": "0:00:25.6923333"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "instances": [
+              {
+                "adjustedStart": "0:00:25.6923333",
+                "adjustedEnd": "0:00:33.5335",
+                "start": "0:00:25.6923333",
+                "end": "0:00:33.5335"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.5335",
+                "adjustedEnd": "0:00:40.6239167",
+                "start": "0:00:33.5335",
+                "end": "0:00:40.6239167"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "instances": [
+              {
+                "adjustedStart": "0:00:40.6239167",
+                "adjustedEnd": "0:00:52.1354167",
+                "start": "0:00:40.6239167",
+                "end": "0:00:52.1354167"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "instances": [
+              {
+                "adjustedStart": "0:00:52.1354167",
+                "adjustedEnd": "0:00:58.80875",
+                "start": "0:00:52.1354167",
+                "end": "0:00:58.80875"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "instances": [
+              {
+                "adjustedStart": "0:00:58.80875",
+                "adjustedEnd": "0:01:01.5615",
+                "start": "0:00:58.80875",
+                "end": "0:01:01.5615"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "instances": [
+              {
+                "adjustedStart": "0:01:01.5615",
+                "adjustedEnd": "0:01:07.067",
+                "start": "0:01:01.5615",
+                "end": "0:01:07.067"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "instances": [
+              {
+                "adjustedStart": "0:01:07.067",
+                "adjustedEnd": "0:01:08.7770417",
+                "start": "0:01:07.067",
+                "end": "0:01:08.7770417"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "instances": [
+              {
+                "adjustedStart": "0:01:08.7770417",
+                "adjustedEnd": "0:01:21.9985833",
+                "start": "0:01:08.7770417",
+                "end": "0:01:21.9985833"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "instances": [
+              {
+                "adjustedStart": "0:01:21.9985833",
+                "adjustedEnd": "0:01:28.5885",
+                "start": "0:01:21.9985833",
+                "end": "0:01:28.5885"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "instances": [
+              {
+                "adjustedStart": "0:01:28.5885",
+                "adjustedEnd": "0:01:31.34125",
+                "start": "0:01:28.5885",
+                "end": "0:01:31.34125"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "instances": [
+              {
+                "adjustedStart": "0:01:31.34125",
+                "adjustedEnd": "0:01:34.0522917",
+                "start": "0:01:31.34125",
+                "end": "0:01:34.0522917"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "instances": [
+              {
+                "adjustedStart": "0:01:34.0522917",
+                "adjustedEnd": "0:01:40.475375",
+                "start": "0:01:34.0522917",
+                "end": "0:01:40.475375"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "e9e873ca-65c4-4b85-9bbd-3298d368ee30",
+                    "adjustedStart": "0:00:00.25025",
+                    "adjustedEnd": "0:00:00.2919583",
+                    "start": "0:00:00.25025",
+                    "end": "0:00:00.2919583"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "216117a9-a02c-4036-9a7e-beafaef3f576",
+                    "adjustedStart": "0:00:00.9175833",
+                    "adjustedEnd": "0:00:00.9592917",
+                    "start": "0:00:00.9175833",
+                    "end": "0:00:00.9592917"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:03.0864167",
+                "start": "0:00:00",
+                "end": "0:00:03.0864167"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "keyFrames": [
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "0cf24905-9fcd-4e87-9d2a-34e7cf28c9b6",
+                    "adjustedStart": "0:00:03.0864167",
+                    "adjustedEnd": "0:00:03.128125",
+                    "start": "0:00:03.0864167",
+                    "end": "0:00:03.128125"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.0864167",
+                "adjustedEnd": "0:00:06.0477083",
+                "start": "0:00:03.0864167",
+                "end": "0:00:06.0477083"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "keyFrames": [
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "4991626f-eb31-4d42-9963-c0fab899ef94",
+                    "adjustedStart": "0:00:06.0477083",
+                    "adjustedEnd": "0:00:06.0894167",
+                    "start": "0:00:06.0477083",
+                    "end": "0:00:06.0894167"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.0477083",
+                "adjustedEnd": "0:00:08.8421667",
+                "start": "0:00:06.0477083",
+                "end": "0:00:08.8421667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "keyFrames": [
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "cb526fe6-8f56-493d-8903-b1b8b807083f",
+                    "adjustedStart": "0:00:09.0924167",
+                    "adjustedEnd": "0:00:09.134125",
+                    "start": "0:00:09.0924167",
+                    "end": "0:00:09.134125"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.8421667",
+                "adjustedEnd": "0:00:10.9275833",
+                "start": "0:00:08.8421667",
+                "end": "0:00:10.9275833"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "keyFrames": [
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "0f4021c4-5d61-4acb-9f28-68305a3cdf8b",
+                    "adjustedStart": "0:00:11.1778333",
+                    "adjustedEnd": "0:00:11.2195417",
+                    "start": "0:00:11.1778333",
+                    "end": "0:00:11.2195417"
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "instances": [
+                  {
+                    "thumbnailId": "45f84adc-fbd8-48bf-9c38-701253f2a07c",
+                    "adjustedStart": "0:00:12.012",
+                    "adjustedEnd": "0:00:12.0537083",
+                    "start": "0:00:12.012",
+                    "end": "0:00:12.0537083"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.9275833",
+                "adjustedEnd": "0:00:12.6793333",
+                "start": "0:00:10.9275833",
+                "end": "0:00:12.6793333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "keyFrames": [
+              {
+                "id": 8,
+                "instances": [
+                  {
+                    "thumbnailId": "32315cf4-4433-4b2b-8e77-1aef22870b6f",
+                    "adjustedStart": "0:00:12.9295833",
+                    "adjustedEnd": "0:00:12.9712917",
+                    "start": "0:00:12.9295833",
+                    "end": "0:00:12.9712917"
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "instances": [
+                  {
+                    "thumbnailId": "a00aea3b-132f-4c9c-a234-cd6575e88eb0",
+                    "adjustedStart": "0:00:13.638625",
+                    "adjustedEnd": "0:00:13.6803333",
+                    "start": "0:00:13.638625",
+                    "end": "0:00:13.6803333"
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "instances": [
+                  {
+                    "thumbnailId": "c4d028cc-d919-4a9b-9758-9017967583ce",
+                    "adjustedStart": "0:00:14.3476667",
+                    "adjustedEnd": "0:00:14.389375",
+                    "start": "0:00:14.3476667",
+                    "end": "0:00:14.389375"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.6793333",
+                "adjustedEnd": "0:00:14.4310833",
+                "start": "0:00:12.6793333",
+                "end": "0:00:14.4310833"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "keyFrames": [
+              {
+                "id": 11,
+                "instances": [
+                  {
+                    "thumbnailId": "4778d868-a741-4903-a79e-232ce0760fa5",
+                    "adjustedStart": "0:00:14.4310833",
+                    "adjustedEnd": "0:00:14.4727917",
+                    "start": "0:00:14.4310833",
+                    "end": "0:00:14.4727917"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:14.4310833",
+                "adjustedEnd": "0:00:16.141125",
+                "start": "0:00:14.4310833",
+                "end": "0:00:16.141125"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "tags": [ "Medium", "Wide" ],
+            "keyFrames": [
+              {
+                "id": 12,
+                "instances": [
+                  {
+                    "thumbnailId": "7a33d42c-0590-4f6d-9b72-9c85d19a9e92",
+                    "adjustedStart": "0:00:16.391375",
+                    "adjustedEnd": "0:00:16.4330833",
+                    "start": "0:00:16.391375",
+                    "end": "0:00:16.4330833"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.141125",
+                "adjustedEnd": "0:00:17.4757917",
+                "start": "0:00:16.141125",
+                "end": "0:00:17.4757917"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "tags": [ "Medium", "Wide", "CloseUp" ],
+            "keyFrames": [
+              {
+                "id": 13,
+                "instances": [
+                  {
+                    "thumbnailId": "69099187-26a1-45ad-af96-958d61d8d12e",
+                    "adjustedStart": "0:00:17.4757917",
+                    "adjustedEnd": "0:00:17.5175",
+                    "start": "0:00:17.4757917",
+                    "end": "0:00:17.5175"
+                  }
+                ]
+              },
+              {
+                "id": 14,
+                "instances": [
+                  {
+                    "thumbnailId": "973ca4a0-2bd9-4fc8-8228-24bc2f7d247c",
+                    "adjustedStart": "0:00:18.4767917",
+                    "adjustedEnd": "0:00:18.5185",
+                    "start": "0:00:18.4767917",
+                    "end": "0:00:18.5185"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.4757917",
+                "adjustedEnd": "0:00:19.5195",
+                "start": "0:00:17.4757917",
+                "end": "0:00:19.5195"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "tags": [ "Medium", "Wide" ],
+            "keyFrames": [
+              {
+                "id": 15,
+                "instances": [
+                  {
+                    "thumbnailId": "6eb60a60-6121-4d5d-a0dc-6befcf7ffa8a",
+                    "adjustedStart": "0:00:19.5195",
+                    "adjustedEnd": "0:00:19.5612083",
+                    "start": "0:00:19.5195",
+                    "end": "0:00:19.5612083"
+                  }
+                ]
+              },
+              {
+                "id": 16,
+                "instances": [
+                  {
+                    "thumbnailId": "72c2f568-e957-4e6d-896d-234a71e3673e",
+                    "adjustedStart": "0:00:20.6039167",
+                    "adjustedEnd": "0:00:20.645625",
+                    "start": "0:00:20.6039167",
+                    "end": "0:00:20.645625"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.5195",
+                "adjustedEnd": "0:00:21.9802917",
+                "start": "0:00:19.5195",
+                "end": "0:00:21.9802917"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "tags": [ "Medium", "CenterFace" ],
+            "keyFrames": [
+              {
+                "id": 17,
+                "instances": [
+                  {
+                    "thumbnailId": "a6594065-dd6e-41ca-9b80-f9d83a1bc974",
+                    "adjustedStart": "0:00:21.9802917",
+                    "adjustedEnd": "0:00:22.022",
+                    "start": "0:00:21.9802917",
+                    "end": "0:00:22.022"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.9802917",
+                "adjustedEnd": "0:00:24.1908333",
+                "start": "0:00:21.9802917",
+                "end": "0:00:24.1908333"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "tags": [ "Medium" ],
+            "keyFrames": [
+              {
+                "id": 18,
+                "instances": [
+                  {
+                    "thumbnailId": "0b10717b-58b2-4625-b70b-9787908fe07e",
+                    "adjustedStart": "0:00:24.4410833",
+                    "adjustedEnd": "0:00:24.4827917",
+                    "start": "0:00:24.4410833",
+                    "end": "0:00:24.4827917"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:24.1908333",
+                "adjustedEnd": "0:00:25.6923333",
+                "start": "0:00:24.1908333",
+                "end": "0:00:25.6923333"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "keyFrames": [
+              {
+                "id": 19,
+                "instances": [
+                  {
+                    "thumbnailId": "122ebc51-4d31-4363-b1f9-51257637dace",
+                    "adjustedStart": "0:00:25.9425833",
+                    "adjustedEnd": "0:00:25.9842917",
+                    "start": "0:00:25.9425833",
+                    "end": "0:00:25.9842917"
+                  }
+                ]
+              },
+              {
+                "id": 20,
+                "instances": [
+                  {
+                    "thumbnailId": "272f5e09-2194-4c6b-b259-6b196809eb63",
+                    "adjustedStart": "0:00:26.5265",
+                    "adjustedEnd": "0:00:26.5682083",
+                    "start": "0:00:26.5265",
+                    "end": "0:00:26.5682083"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:25.6923333",
+                "adjustedEnd": "0:00:27.27725",
+                "start": "0:00:25.6923333",
+                "end": "0:00:27.27725"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "keyFrames": [
+              {
+                "id": 21,
+                "instances": [
+                  {
+                    "thumbnailId": "4793045f-fe23-4e93-b3f2-baed99ba6271",
+                    "adjustedStart": "0:00:27.5275",
+                    "adjustedEnd": "0:00:27.5692083",
+                    "start": "0:00:27.5275",
+                    "end": "0:00:27.5692083"
+                  }
+                ]
+              },
+              {
+                "id": 22,
+                "instances": [
+                  {
+                    "thumbnailId": "6d8687ff-4aac-4b74-aef2-63100b329be8",
+                    "adjustedStart": "0:00:27.9862917",
+                    "adjustedEnd": "0:00:28.028",
+                    "start": "0:00:27.9862917",
+                    "end": "0:00:28.028"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:27.27725",
+                "adjustedEnd": "0:00:28.77875",
+                "start": "0:00:27.27725",
+                "end": "0:00:28.77875"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "keyFrames": [
+              {
+                "id": 23,
+                "instances": [
+                  {
+                    "thumbnailId": "722d1220-a5fa-444a-b7cb-6260e12eb791",
+                    "adjustedStart": "0:00:29.654625",
+                    "adjustedEnd": "0:00:29.6963333",
+                    "start": "0:00:29.654625",
+                    "end": "0:00:29.6963333"
+                  }
+                ]
+              },
+              {
+                "id": 24,
+                "instances": [
+                  {
+                    "thumbnailId": "22362dcb-10c9-4ae2-85e8-76960a4c42ac",
+                    "adjustedStart": "0:00:30.0717083",
+                    "adjustedEnd": "0:00:30.1134167",
+                    "start": "0:00:30.0717083",
+                    "end": "0:00:30.1134167"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.77875",
+                "adjustedEnd": "0:00:31.906875",
+                "start": "0:00:28.77875",
+                "end": "0:00:31.906875"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "keyFrames": [
+              {
+                "id": 25,
+                "instances": [
+                  {
+                    "thumbnailId": "f7bb5aed-9a01-40cd-aed9-63d5d3c9c151",
+                    "adjustedStart": "0:00:32.157125",
+                    "adjustedEnd": "0:00:32.1988333",
+                    "start": "0:00:32.157125",
+                    "end": "0:00:32.1988333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:31.906875",
+                "adjustedEnd": "0:00:33.5335",
+                "start": "0:00:31.906875",
+                "end": "0:00:33.5335"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "tags": [ "Wide", "Medium" ],
+            "keyFrames": [
+              {
+                "id": 26,
+                "instances": [
+                  {
+                    "thumbnailId": "c772a0c3-9f1c-49ab-aacb-153970fedad9",
+                    "adjustedStart": "0:00:33.78375",
+                    "adjustedEnd": "0:00:33.8254583",
+                    "start": "0:00:33.78375",
+                    "end": "0:00:33.8254583"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.5335",
+                "adjustedEnd": "0:00:35.035",
+                "start": "0:00:33.5335",
+                "end": "0:00:35.035"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "tags": [ "Medium", "RightFace" ],
+            "keyFrames": [
+              {
+                "id": 27,
+                "instances": [
+                  {
+                    "thumbnailId": "8f51a20f-669b-4009-bfed-ac4a89fe5985",
+                    "adjustedStart": "0:00:35.035",
+                    "adjustedEnd": "0:00:35.0767083",
+                    "start": "0:00:35.035",
+                    "end": "0:00:35.0767083"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:35.035",
+                "adjustedEnd": "0:00:36.911875",
+                "start": "0:00:35.035",
+                "end": "0:00:36.911875"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "keyFrames": [
+              {
+                "id": 28,
+                "instances": [
+                  {
+                    "thumbnailId": "b9b32f06-87f2-49a1-b2ec-e033a55252e1",
+                    "adjustedStart": "0:00:36.911875",
+                    "adjustedEnd": "0:00:36.9535833",
+                    "start": "0:00:36.911875",
+                    "end": "0:00:36.9535833"
+                  }
+                ]
+              },
+              {
+                "id": 29,
+                "instances": [
+                  {
+                    "thumbnailId": "d1b2062c-e06a-4cff-89e2-9a26272337cf",
+                    "adjustedStart": "0:00:38.4967917",
+                    "adjustedEnd": "0:00:38.5385",
+                    "start": "0:00:38.4967917",
+                    "end": "0:00:38.5385"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:36.911875",
+                "adjustedEnd": "0:00:40.6239167",
+                "start": "0:00:36.911875",
+                "end": "0:00:40.6239167"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "keyFrames": [
+              {
+                "id": 30,
+                "instances": [
+                  {
+                    "thumbnailId": "ff08d481-84b6-4ac7-8c98-afa8f3d694ad",
+                    "adjustedStart": "0:00:40.665625",
+                    "adjustedEnd": "0:00:40.7073333",
+                    "start": "0:00:40.665625",
+                    "end": "0:00:40.7073333"
+                  }
+                ]
+              },
+              {
+                "id": 31,
+                "instances": [
+                  {
+                    "thumbnailId": "ca3c8a6c-4499-4394-945e-b384ceb4be8f",
+                    "adjustedStart": "0:00:41.041",
+                    "adjustedEnd": "0:00:41.0827083",
+                    "start": "0:00:41.041",
+                    "end": "0:00:41.0827083"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:40.6239167",
+                "adjustedEnd": "0:00:42.1254167",
+                "start": "0:00:40.6239167",
+                "end": "0:00:42.1254167"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "tags": [ "Wide" ],
+            "keyFrames": [
+              {
+                "id": 32,
+                "instances": [
+                  {
+                    "thumbnailId": "1f64db9c-8b43-48a2-98ad-b2a09e3d98dc",
+                    "adjustedStart": "0:00:42.1254167",
+                    "adjustedEnd": "0:00:42.167125",
+                    "start": "0:00:42.1254167",
+                    "end": "0:00:42.167125"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:42.1254167",
+                "adjustedEnd": "0:00:43.7520417",
+                "start": "0:00:42.1254167",
+                "end": "0:00:43.7520417"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "keyFrames": [
+              {
+                "id": 33,
+                "instances": [
+                  {
+                    "thumbnailId": "1e1aad37-3088-496b-be7b-aeaeee43b1e0",
+                    "adjustedStart": "0:00:43.7520417",
+                    "adjustedEnd": "0:00:43.79375",
+                    "start": "0:00:43.7520417",
+                    "end": "0:00:43.79375"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:43.7520417",
+                "adjustedEnd": "0:00:47.5475",
+                "start": "0:00:43.7520417",
+                "end": "0:00:47.5475"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "tags": [ "Wide", "Medium", "CloseUp" ],
+            "keyFrames": [
+              {
+                "id": 34,
+                "instances": [
+                  {
+                    "thumbnailId": "cd42c112-bdd4-4e43-8165-d283dcf7ed18",
+                    "adjustedStart": "0:00:47.79775",
+                    "adjustedEnd": "0:00:47.8394583",
+                    "start": "0:00:47.79775",
+                    "end": "0:00:47.8394583"
+                  }
+                ]
+              },
+              {
+                "id": 35,
+                "instances": [
+                  {
+                    "thumbnailId": "607c7f8e-66c9-4173-b6cc-8a961052fb0c",
+                    "adjustedStart": "0:00:48.5485",
+                    "adjustedEnd": "0:00:48.5902083",
+                    "start": "0:00:48.5485",
+                    "end": "0:00:48.5902083"
+                  }
+                ]
+              },
+              {
+                "id": 36,
+                "instances": [
+                  {
+                    "thumbnailId": "306bde4a-4374-436c-b30e-d92e18f55562",
+                    "adjustedStart": "0:00:50.0082917",
+                    "adjustedEnd": "0:00:50.05",
+                    "start": "0:00:50.0082917",
+                    "end": "0:00:50.05"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.5475",
+                "adjustedEnd": "0:00:50.0917083",
+                "start": "0:00:47.5475",
+                "end": "0:00:50.0917083"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "tags": [ "Medium", "LeftFace", "CenterFace" ],
+            "keyFrames": [
+              {
+                "id": 37,
+                "instances": [
+                  {
+                    "thumbnailId": "cfd5eb2f-954e-43ed-8f95-0b7d49ede618",
+                    "adjustedStart": "0:00:50.3419583",
+                    "adjustedEnd": "0:00:50.3836667",
+                    "start": "0:00:50.3419583",
+                    "end": "0:00:50.3836667"
+                  }
+                ]
+              },
+              {
+                "id": 38,
+                "instances": [
+                  {
+                    "thumbnailId": "5c8836c2-0a45-4b3e-88f9-525b2bcf91a9",
+                    "adjustedStart": "0:00:51.1344167",
+                    "adjustedEnd": "0:00:51.176125",
+                    "start": "0:00:51.1344167",
+                    "end": "0:00:51.176125"
+                  }
+                ]
+              },
+              {
+                "id": 39,
+                "instances": [
+                  {
+                    "thumbnailId": "0b7f60e7-1bed-409b-97e5-383d295f5e98",
+                    "adjustedStart": "0:00:51.7600417",
+                    "adjustedEnd": "0:00:51.80175",
+                    "start": "0:00:51.7600417",
+                    "end": "0:00:51.80175"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:50.0917083",
+                "adjustedEnd": "0:00:52.1354167",
+                "start": "0:00:50.0917083",
+                "end": "0:00:52.1354167"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "tags": [ "Medium", "CenterFace" ],
+            "keyFrames": [
+              {
+                "id": 40,
+                "instances": [
+                  {
+                    "thumbnailId": "669ddbe2-c557-4532-a113-88a930882342",
+                    "adjustedStart": "0:00:52.1354167",
+                    "adjustedEnd": "0:00:52.177125",
+                    "start": "0:00:52.1354167",
+                    "end": "0:00:52.177125"
+                  }
+                ]
+              },
+              {
+                "id": 41,
+                "instances": [
+                  {
+                    "thumbnailId": "923d3239-c5aa-4deb-a375-c1ecf79920ed",
+                    "adjustedStart": "0:00:53.4700833",
+                    "adjustedEnd": "0:00:53.5117917",
+                    "start": "0:00:53.4700833",
+                    "end": "0:00:53.5117917"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:52.1354167",
+                "adjustedEnd": "0:00:55.680625",
+                "start": "0:00:52.1354167",
+                "end": "0:00:55.680625"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "tags": [ "Medium", "CenterFace", "Wide" ],
+            "keyFrames": [
+              {
+                "id": 42,
+                "instances": [
+                  {
+                    "thumbnailId": "91aae45a-39f8-4731-bcee-1cab59f9ea0d",
+                    "adjustedStart": "0:00:55.680625",
+                    "adjustedEnd": "0:00:55.7223333",
+                    "start": "0:00:55.680625",
+                    "end": "0:00:55.7223333"
+                  }
+                ]
+              },
+              {
+                "id": 43,
+                "instances": [
+                  {
+                    "thumbnailId": "dac07b34-ef40-4756-b50c-6f5759205f67",
+                    "adjustedStart": "0:00:56.7233333",
+                    "adjustedEnd": "0:00:56.7650417",
+                    "start": "0:00:56.7233333",
+                    "end": "0:00:56.7650417"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:55.680625",
+                "adjustedEnd": "0:00:57.4740833",
+                "start": "0:00:55.680625",
+                "end": "0:00:57.4740833"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "tags": [ "Medium", "LeftFace" ],
+            "keyFrames": [
+              {
+                "id": 44,
+                "instances": [
+                  {
+                    "thumbnailId": "2d8025bc-6b78-4bbc-9c69-72bd89d1d45a",
+                    "adjustedStart": "0:00:57.7243333",
+                    "adjustedEnd": "0:00:57.7660417",
+                    "start": "0:00:57.7243333",
+                    "end": "0:00:57.7660417"
+                  }
+                ]
+              },
+              {
+                "id": 45,
+                "instances": [
+                  {
+                    "thumbnailId": "c87854f2-b5dd-4ec3-ae92-33cb5dd9a774",
+                    "adjustedStart": "0:00:58.1414167",
+                    "adjustedEnd": "0:00:58.183125",
+                    "start": "0:00:58.1414167",
+                    "end": "0:00:58.183125"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:57.4740833",
+                "adjustedEnd": "0:00:58.80875",
+                "start": "0:00:57.4740833",
+                "end": "0:00:58.80875"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "tags": [ "Medium", "RightFace" ],
+            "keyFrames": [
+              {
+                "id": 46,
+                "instances": [
+                  {
+                    "thumbnailId": "9d3a0c56-3a3a-481a-acdf-a049c3b1d277",
+                    "adjustedStart": "0:00:59.059",
+                    "adjustedEnd": "0:00:59.1007083",
+                    "start": "0:00:59.059",
+                    "end": "0:00:59.1007083"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:58.80875",
+                "adjustedEnd": "0:01:00.1434167",
+                "start": "0:00:58.80875",
+                "end": "0:01:00.1434167"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "tags": [ "Wide", "CenterFace", "Medium" ],
+            "keyFrames": [
+              {
+                "id": 47,
+                "instances": [
+                  {
+                    "thumbnailId": "a68ae777-eab8-4133-bfed-8435e59dc013",
+                    "adjustedStart": "0:01:00.1434167",
+                    "adjustedEnd": "0:01:00.185125",
+                    "start": "0:01:00.1434167",
+                    "end": "0:01:00.185125"
+                  }
+                ]
+              },
+              {
+                "id": 48,
+                "instances": [
+                  {
+                    "thumbnailId": "7fad9642-6afb-4e8e-a488-66897784d7e3",
+                    "adjustedStart": "0:01:01.0192917",
+                    "adjustedEnd": "0:01:01.061",
+                    "start": "0:01:01.0192917",
+                    "end": "0:01:01.061"
+                  }
+                ]
+              },
+              {
+                "id": 49,
+                "instances": [
+                  {
+                    "thumbnailId": "3218fae0-6251-406d-abd6-a76440bc1448",
+                    "adjustedStart": "0:01:01.1444167",
+                    "adjustedEnd": "0:01:01.186125",
+                    "start": "0:01:01.1444167",
+                    "end": "0:01:01.186125"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:00.1434167",
+                "adjustedEnd": "0:01:01.5615",
+                "start": "0:01:00.1434167",
+                "end": "0:01:01.5615"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "keyFrames": [
+              {
+                "id": 50,
+                "instances": [
+                  {
+                    "thumbnailId": "f9547d51-0de0-4863-8726-8e79abdaeed6",
+                    "adjustedStart": "0:01:02.3956667",
+                    "adjustedEnd": "0:01:02.437375",
+                    "start": "0:01:02.3956667",
+                    "end": "0:01:02.437375"
+                  }
+                ]
+              },
+              {
+                "id": 51,
+                "instances": [
+                  {
+                    "thumbnailId": "6dedb29a-c340-4720-b2f1-e6f447102897",
+                    "adjustedStart": "0:01:02.9795833",
+                    "adjustedEnd": "0:01:03.0212917",
+                    "start": "0:01:02.9795833",
+                    "end": "0:01:03.0212917"
+                  }
+                ]
+              },
+              {
+                "id": 52,
+                "instances": [
+                  {
+                    "thumbnailId": "192bf865-0939-4683-8ec4-9809fbdeea41",
+                    "adjustedStart": "0:01:04.6062083",
+                    "adjustedEnd": "0:01:04.6479167",
+                    "start": "0:01:04.6062083",
+                    "end": "0:01:04.6479167"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:01.5615",
+                "adjustedEnd": "0:01:04.7313333",
+                "start": "0:01:01.5615",
+                "end": "0:01:04.7313333"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "keyFrames": [
+              {
+                "id": 53,
+                "instances": [
+                  {
+                    "thumbnailId": "1f4f98af-8be3-4d27-a5a3-7da25de3cfab",
+                    "adjustedStart": "0:01:05.3569583",
+                    "adjustedEnd": "0:01:05.3986667",
+                    "start": "0:01:05.3569583",
+                    "end": "0:01:05.3986667"
+                  }
+                ]
+              },
+              {
+                "id": 54,
+                "instances": [
+                  {
+                    "thumbnailId": "fd7565b3-be52-4ed6-a8d2-c35a2fde882e",
+                    "adjustedStart": "0:01:05.5237917",
+                    "adjustedEnd": "0:01:05.5655",
+                    "start": "0:01:05.5237917",
+                    "end": "0:01:05.5655"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:04.9815833",
+                "adjustedEnd": "0:01:07.067",
+                "start": "0:01:04.9815833",
+                "end": "0:01:07.067"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "keyFrames": [
+              {
+                "id": 55,
+                "instances": [
+                  {
+                    "thumbnailId": "935c7479-a2c4-4295-9a2e-0f5151780ab7",
+                    "adjustedStart": "0:01:07.067",
+                    "adjustedEnd": "0:01:07.1087083",
+                    "start": "0:01:07.067",
+                    "end": "0:01:07.1087083"
+                  }
+                ]
+              },
+              {
+                "id": 56,
+                "instances": [
+                  {
+                    "thumbnailId": "3d387a0c-1873-4871-a414-a3c80aeda8f6",
+                    "adjustedStart": "0:01:08.4016667",
+                    "adjustedEnd": "0:01:08.443375",
+                    "start": "0:01:08.4016667",
+                    "end": "0:01:08.443375"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:07.067",
+                "adjustedEnd": "0:01:08.7770417",
+                "start": "0:01:07.067",
+                "end": "0:01:08.7770417"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "tags": [ "Medium", "CenterFace" ],
+            "keyFrames": [
+              {
+                "id": 57,
+                "instances": [
+                  {
+                    "thumbnailId": "a6f171a0-cdec-4e07-a671-b178c16b347e",
+                    "adjustedStart": "0:01:09.0272917",
+                    "adjustedEnd": "0:01:09.069",
+                    "start": "0:01:09.0272917",
+                    "end": "0:01:09.069"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:08.7770417",
+                "adjustedEnd": "0:01:10.32025",
+                "start": "0:01:08.7770417",
+                "end": "0:01:10.32025"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "keyFrames": [
+              {
+                "id": 58,
+                "instances": [
+                  {
+                    "thumbnailId": "4144139d-7353-4dcd-9723-7dfbe3e6fc7a",
+                    "adjustedStart": "0:01:10.5705",
+                    "adjustedEnd": "0:01:10.6122083",
+                    "start": "0:01:10.5705",
+                    "end": "0:01:10.6122083"
+                  }
+                ]
+              },
+              {
+                "id": 59,
+                "instances": [
+                  {
+                    "thumbnailId": "a9d50a02-8575-4a58-84c1-7279a7c3df49",
+                    "adjustedStart": "0:01:11.446375",
+                    "adjustedEnd": "0:01:11.4880833",
+                    "start": "0:01:11.446375",
+                    "end": "0:01:11.4880833"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:10.32025",
+                "adjustedEnd": "0:01:12.7393333",
+                "start": "0:01:10.32025",
+                "end": "0:01:12.7393333"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "tags": [ "Medium", "LeftFace" ],
+            "keyFrames": [
+              {
+                "id": 60,
+                "instances": [
+                  {
+                    "thumbnailId": "e9fb34b9-e899-4802-911b-db3bbe46eb27",
+                    "adjustedStart": "0:01:12.7393333",
+                    "adjustedEnd": "0:01:12.7810417",
+                    "start": "0:01:12.7393333",
+                    "end": "0:01:12.7810417"
+                  }
+                ]
+              },
+              {
+                "id": 61,
+                "instances": [
+                  {
+                    "thumbnailId": "a19a2f48-3ea1-4963-9458-fc939396b679",
+                    "adjustedStart": "0:01:13.948875",
+                    "adjustedEnd": "0:01:13.9905833",
+                    "start": "0:01:13.948875",
+                    "end": "0:01:13.9905833"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:12.7393333",
+                "adjustedEnd": "0:01:15.2418333",
+                "start": "0:01:12.7393333",
+                "end": "0:01:15.2418333"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "keyFrames": [
+              {
+                "id": 62,
+                "instances": [
+                  {
+                    "thumbnailId": "28ca033b-0821-49bc-8e61-7235880d9605",
+                    "adjustedStart": "0:01:15.4920833",
+                    "adjustedEnd": "0:01:15.5337917",
+                    "start": "0:01:15.4920833",
+                    "end": "0:01:15.5337917"
+                  }
+                ]
+              },
+              {
+                "id": 63,
+                "instances": [
+                  {
+                    "thumbnailId": "d7a43209-e983-4ef7-9fca-6c9ceacc1b21",
+                    "adjustedStart": "0:01:15.9091667",
+                    "adjustedEnd": "0:01:15.950875",
+                    "start": "0:01:15.9091667",
+                    "end": "0:01:15.950875"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:15.2418333",
+                "adjustedEnd": "0:01:17.2855417",
+                "start": "0:01:15.2418333",
+                "end": "0:01:17.2855417"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "tags": [ "CloseUp", "Medium" ],
+            "keyFrames": [
+              {
+                "id": 64,
+                "instances": [
+                  {
+                    "thumbnailId": "224bca5a-d1aa-4838-ba8d-dd0c4c0e41da",
+                    "adjustedStart": "0:01:17.5357917",
+                    "adjustedEnd": "0:01:17.5775",
+                    "start": "0:01:17.5357917",
+                    "end": "0:01:17.5775"
+                  }
+                ]
+              },
+              {
+                "id": 65,
+                "instances": [
+                  {
+                    "thumbnailId": "276fc783-3ae9-49b3-85a6-8567ff10c499",
+                    "adjustedStart": "0:01:18.4116667",
+                    "adjustedEnd": "0:01:18.453375",
+                    "start": "0:01:18.4116667",
+                    "end": "0:01:18.453375"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:17.2855417",
+                "adjustedEnd": "0:01:18.9121667",
+                "start": "0:01:17.2855417",
+                "end": "0:01:18.9121667"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "keyFrames": [
+              {
+                "id": 66,
+                "instances": [
+                  {
+                    "thumbnailId": "fa3866b9-39cd-4029-890b-fd10e06e27d5",
+                    "adjustedStart": "0:01:18.9121667",
+                    "adjustedEnd": "0:01:18.953875",
+                    "start": "0:01:18.9121667",
+                    "end": "0:01:18.953875"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:18.9121667",
+                "adjustedEnd": "0:01:20.4970833",
+                "start": "0:01:18.9121667",
+                "end": "0:01:20.4970833"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "tags": [ "Wide", "Medium" ],
+            "keyFrames": [
+              {
+                "id": 67,
+                "instances": [
+                  {
+                    "thumbnailId": "455c3fa1-da7f-44da-8f05-6fad126e6fe8",
+                    "adjustedStart": "0:01:20.7473333",
+                    "adjustedEnd": "0:01:20.7890417",
+                    "start": "0:01:20.7473333",
+                    "end": "0:01:20.7890417"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:20.4970833",
+                "adjustedEnd": "0:01:21.9985833",
+                "start": "0:01:20.4970833",
+                "end": "0:01:21.9985833"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "tags": [ "CloseUp", "LeftFace" ],
+            "keyFrames": [
+              {
+                "id": 68,
+                "instances": [
+                  {
+                    "thumbnailId": "1ec9acae-7c18-4d32-9278-0c0621ce8c58",
+                    "adjustedStart": "0:01:22.2488333",
+                    "adjustedEnd": "0:01:22.2905417",
+                    "start": "0:01:22.2488333",
+                    "end": "0:01:22.2905417"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:21.9985833",
+                "adjustedEnd": "0:01:24.2508333",
+                "start": "0:01:21.9985833",
+                "end": "0:01:24.2508333"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "tags": [ "Medium", "CenterFace" ],
+            "keyFrames": [
+              {
+                "id": 69,
+                "instances": [
+                  {
+                    "thumbnailId": "902b69ed-3cea-493c-9142-a75b3837396e",
+                    "adjustedStart": "0:01:24.5010833",
+                    "adjustedEnd": "0:01:24.5427917",
+                    "start": "0:01:24.5010833",
+                    "end": "0:01:24.5427917"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:24.2508333",
+                "adjustedEnd": "0:01:26.5447917",
+                "start": "0:01:24.2508333",
+                "end": "0:01:26.5447917"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "tags": [ "Medium", "Wide" ],
+            "keyFrames": [
+              {
+                "id": 70,
+                "instances": [
+                  {
+                    "thumbnailId": "f18704bc-b9bb-4e02-869e-cba4f6ae7db9",
+                    "adjustedStart": "0:01:26.5447917",
+                    "adjustedEnd": "0:01:26.5865",
+                    "start": "0:01:26.5447917",
+                    "end": "0:01:26.5865"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:26.5447917",
+                "adjustedEnd": "0:01:28.5885",
+                "start": "0:01:26.5447917",
+                "end": "0:01:28.5885"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "keyFrames": [
+              {
+                "id": 71,
+                "instances": [
+                  {
+                    "thumbnailId": "5dbb17ca-86de-494f-9d94-ec1e8d4b1547",
+                    "adjustedStart": "0:01:28.83875",
+                    "adjustedEnd": "0:01:28.8804583",
+                    "start": "0:01:28.83875",
+                    "end": "0:01:28.8804583"
+                  }
+                ]
+              },
+              {
+                "id": 72,
+                "instances": [
+                  {
+                    "thumbnailId": "c7ad89c4-eb06-417d-ac6c-cdfac560d4e1",
+                    "adjustedStart": "0:01:29.8814583",
+                    "adjustedEnd": "0:01:29.9231667",
+                    "start": "0:01:29.8814583",
+                    "end": "0:01:29.9231667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:28.5885",
+                "adjustedEnd": "0:01:31.34125",
+                "start": "0:01:28.5885",
+                "end": "0:01:31.34125"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "tags": [ "Medium" ],
+            "keyFrames": [
+              {
+                "id": 73,
+                "instances": [
+                  {
+                    "thumbnailId": "e07f29de-87c3-403b-aec0-69c2af664ca1",
+                    "adjustedStart": "0:01:31.5915",
+                    "adjustedEnd": "0:01:31.6332083",
+                    "start": "0:01:31.5915",
+                    "end": "0:01:31.6332083"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:31.34125",
+                "adjustedEnd": "0:01:34.0522917",
+                "start": "0:01:31.34125",
+                "end": "0:01:34.0522917"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "keyFrames": [
+              {
+                "id": 74,
+                "instances": [
+                  {
+                    "thumbnailId": "a0eab27f-d4a2-492c-9662-70fbaf13fa7e",
+                    "adjustedStart": "0:01:34.0522917",
+                    "adjustedEnd": "0:01:34.094",
+                    "start": "0:01:34.0522917",
+                    "end": "0:01:34.094"
+                  }
+                ]
+              },
+              {
+                "id": 75,
+                "instances": [
+                  {
+                    "thumbnailId": "e38d4543-8a71-4039-bcb4-e61123711d77",
+                    "adjustedStart": "0:01:34.8864583",
+                    "adjustedEnd": "0:01:34.9281667",
+                    "start": "0:01:34.8864583",
+                    "end": "0:01:34.9281667"
+                  }
+                ]
+              },
+              {
+                "id": 76,
+                "instances": [
+                  {
+                    "thumbnailId": "d78a11f4-44bf-411f-b07f-b43e7b56340a",
+                    "adjustedStart": "0:01:35.34525",
+                    "adjustedEnd": "0:01:35.3869583",
+                    "start": "0:01:35.34525",
+                    "end": "0:01:35.3869583"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:34.0522917",
+                "adjustedEnd": "0:01:35.8040417",
+                "start": "0:01:34.0522917",
+                "end": "0:01:35.8040417"
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "keyFrames": [
+              {
+                "id": 77,
+                "instances": [
+                  {
+                    "thumbnailId": "1a0faa3b-c2fe-4ef0-ac9f-7fcb2a0fdf74",
+                    "adjustedStart": "0:01:36.0542917",
+                    "adjustedEnd": "0:01:36.096",
+                    "start": "0:01:36.0542917",
+                    "end": "0:01:36.096"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:35.8040417",
+                "adjustedEnd": "0:01:40.475375",
+                "start": "0:01:35.8040417",
+                "end": "0:01:40.475375"
+              }
+            ]
+          }
+        ],
+        "brands": [
+          {
+            "id": 1,
+            "referenceType": "Wiki",
+            "name": "Microsoft",
+            "referenceId": "Microsoft",
+            "referenceUrl": "http://en.wikipedia.org/wiki/Microsoft",
+            "description": "Microsoft Corporation /ˈmaɪkrəˌsɒft, -roʊ-, -ˌsɔːft/ (commonly referred to as Microsoft) is an American multinational technology company headquartered in Redmond, Washington, that develops, manufactures, licenses, supports and sells computer software, consumer electronics and personal computers and services.",
+            "tags": [],
+            "confidence": 1,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:53.053",
+                "adjustedEnd": "0:00:53.0947083",
+                "start": "0:00:53.053",
+                "end": "0:00:53.0947083"
+              }
+            ]
+          }
+        ],
+        "namedLocations": [
+          {
+            "id": 1,
+            "name": "forests",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.89,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:58.02",
+                "adjustedEnd": "0:01:05.3",
+                "start": "0:00:58.02",
+                "end": "0:01:05.3"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "forest",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.95,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:05.42",
+                "adjustedEnd": "0:01:10.42",
+                "start": "0:01:05.42",
+                "end": "0:01:10.42"
+              }
+            ]
+          }
+        ],
+        "namedPeople": [
+          {
+            "id": 1,
+            "name": "Ayanna Howard",
+            "referenceId": "Ayanna_Howard",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Ayanna_Howard",
+            "description": "Ayanna MacCalla Howard (born January 24, 1972) is an African-American roboticist and the School Chair for Interactive Computing, Georgia Institute of Technology. She is also the Linda J. and Mark C. Smith Endowed Chair in Bioengineering in the School of Electrical and Computer Engineering, and the director of the Human-Automation Systems (HumAnS) Lab. Currently, she is the Chair of the School of Interactive Computing in the Georgia Tech College of Computing.",
+            "tags": [],
+            "confidence": 0.79,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:01:25.085",
+                "adjustedEnd": "0:01:26.1277083",
+                "start": "0:01:25.085",
+                "end": "0:01:26.1277083"
+              }
+            ]
+          }
+        ],
+        "audioEffects": [
+          {
+            "id": 0,
+            "type": "Silence",
+            "instances": [
+              {
+                "confidence": 0.7987,
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:49",
+                "start": "0:00:48",
+                "end": "0:00:49"
+              },
+              {
+                "confidence": 0.7998,
+                "adjustedStart": "0:01:10.92",
+                "adjustedEnd": "0:01:11.92",
+                "start": "0:01:10.92",
+                "end": "0:01:11.92"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.28",
+                "start": "0:00:00",
+                "end": "0:00:01.28"
+              },
+              {
+                "adjustedStart": "0:00:24.36",
+                "adjustedEnd": "0:01:27.64",
+                "start": "0:00:24.36",
+                "end": "0:01:27.64"
+              },
+              {
+                "adjustedStart": "0:01:35",
+                "adjustedEnd": "0:01:40.475375",
+                "start": "0:01:35",
+                "end": "0:01:40.475375"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "averageScore": 0.9543,
+            "sentimentType": "Positive",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              },
+              {
+                "adjustedStart": "0:01:27.64",
+                "adjustedEnd": "0:01:35",
+                "start": "0:01:27.64",
+                "end": "0:01:35"
+              }
+            ]
+          }
+        ],
+        "emotions": [
+          {
+            "id": 1,
+            "type": "Joy",
+            "instances": [
+              {
+                "confidence": 0.6873,
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              },
+              {
+                "confidence": 0.7207,
+                "adjustedStart": "0:01:27.64",
+                "adjustedEnd": "0:01:35",
+                "start": "0:01:27.64",
+                "end": "0:01:35"
+              }
+            ]
+          }
+        ],
+        "visualContentModeration": [
+          {
+            "id": 1,
+            "adultScore": 0.5789,
+            "racyScore": 0.957,
+            "instances": [
+              {
+                "adjustedStart": "0:01:01.061",
+                "adjustedEnd": "0:01:01.1027083",
+                "start": "0:01:01.061",
+                "end": "0:01:01.1027083"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "adultScore": 0.87,
+            "racyScore": 0.9535,
+            "instances": [
+              {
+                "adjustedStart": "0:01:03.063",
+                "adjustedEnd": "0:01:03.1047083",
+                "start": "0:01:03.063",
+                "end": "0:01:03.1047083"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:38.82",
+                "start": "0:00:00",
+                "end": "0:00:38.82"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:38.82",
+                "adjustedEnd": "0:01:10.42",
+                "start": "0:00:38.82",
+                "end": "0:01:10.42"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:01:10.42",
+                "adjustedEnd": "0:01:40.475375",
+                "start": "0:01:10.42",
+                "end": "0:01:40.475375"
+              }
+            ]
+          }
+        ],
+        "framePatterns": [
+          {
+            "id": 1,
+            "patternType": "Black",
+            "confidence": 1,
+            "displayName": null,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0834167",
+                "start": "0:00:00",
+                "end": "0:00:00.0834167"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.28",
+                "adjustedEnd": "0:00:24.36",
+                "start": "0:00:01.28",
+                "end": "0:00:24.36"
+              },
+              {
+                "adjustedStart": "0:00:29.94",
+                "adjustedEnd": "0:00:38.82",
+                "start": "0:00:29.94",
+                "end": "0:00:38.82"
+              },
+              {
+                "adjustedStart": "0:00:40.98",
+                "adjustedEnd": "0:00:47.5",
+                "start": "0:00:40.98",
+                "end": "0:00:47.5"
+              },
+              {
+                "adjustedStart": "0:00:53.94",
+                "adjustedEnd": "0:00:57.7",
+                "start": "0:00:53.94",
+                "end": "0:00:57.7"
+              },
+              {
+                "adjustedStart": "0:00:58.02",
+                "adjustedEnd": "0:01:05.3",
+                "start": "0:00:58.02",
+                "end": "0:01:05.3"
+              },
+              {
+                "adjustedStart": "0:01:10.94",
+                "adjustedEnd": "0:01:21.62",
+                "start": "0:01:10.94",
+                "end": "0:01:21.62"
+              },
+              {
+                "adjustedStart": "0:01:27.64",
+                "adjustedEnd": "0:01:35",
+                "start": "0:01:27.64",
+                "end": "0:01:35"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Speaker #2",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:28.92",
+                "start": "0:00:25",
+                "end": "0:00:28.92"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Speaker #3",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39.1",
+                "adjustedEnd": "0:00:40.5",
+                "start": "0:00:39.1",
+                "end": "0:00:40.5"
+              },
+              {
+                "adjustedStart": "0:00:48.02",
+                "adjustedEnd": "0:00:52.98",
+                "start": "0:00:48.02",
+                "end": "0:00:52.98"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Speaker #4",
+            "instances": [
+              {
+                "adjustedStart": "0:01:05.42",
+                "adjustedEnd": "0:01:10.42",
+                "start": "0:01:05.42",
+                "end": "0:01:10.42"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Speaker #5",
+            "instances": [
+              {
+                "adjustedStart": "0:01:22.26",
+                "adjustedEnd": "0:01:26.66",
+                "start": "0:01:22.26",
+                "end": "0:01:26.66"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 10,
+          "speakerTalkToListenRatio": {
+            "1": 0.774,
+            "2": 0.044,
+            "3": 0.072,
+            "4": 0.057,
+            "5": 0.05
+          },
+          "speakerLongestMonolog": {
+            "1": 23,
+            "2": 3,
+            "3": 4,
+            "4": 5,
+            "5": 4
+          },
+          "speakerNumberOfFragments": {
+            "1": 7,
+            "2": 1,
+            "3": 2,
+            "4": 1,
+            "5": 1
+          },
+          "speakerWordCount": {
+            "1": 154,
+            "2": 12,
+            "3": 15,
+            "4": 19,
+            "5": 12
+          }
+        }
+      },
+      "thumbnailId": "72902cbf-4f6a-4c05-a37a-a1335816373c",
+      "width": 640,
+      "height": 360,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [ "en-US" ],
+      "language": "en-US",
+      "languages": [ "en-US" ],
+      "indexingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "publishedUrl": "https://codingjammediaservices-usea.streaming.media.azure.net/651b8faa-f412-4978-8722-721d4cb0010d/videoplayback%201.ism/manifest(encryption=cbc)",
+      "publishedProxyUrl": null,
+      "viewToken": "Bearer=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiJmM2FiNjNiZS03NDNlLTQ4ZmYtOGQzMy00ZmVkYTg5MTU4M2QiLCJuYmYiOjE2ODg4NjI1NDIsImV4cCI6MTY4ODkwNTgwMiwiaXNzIjoiaHR0cHM6Ly9icmVha2Rvd24ubWUiLCJhdWQiOiJCcmVha2Rvd25Vc2VyIn0.KfhZXAxPe9dmhB8LJ0xXkSuBtG_sUGxhqz_nCxSsAAU"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "9ff4c5985a",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:01:40.475375"
+      }
+    }
+  ]
+}

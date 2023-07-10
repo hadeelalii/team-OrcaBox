@@ -4,7 +4,7 @@ chrome.action.onClicked.addListener(async (tab) => {
     function: () => chrome.runtime.id,
   });
 
-  chrome.tabs.sendMessage(tabId.result, { action: 'getImages' }, (response) => {
+  chrome.tabs.sendMessage(tabId.result, { action: "getImages" }, (response) => {
     if (response && response.urls) {
       console.log(response.urls);
     }
