@@ -44,8 +44,23 @@ Looking forward
 
 [Text-to-Speech Function App](https://github.com/hadeelalii/team-OrcaBox/tree/main/Text-To-Speech)
 
+## Technologies Used
 
+**Extension/Frontend**
+HTML5, Edge Extensions Framework
 
+**Azure Cognitive Services**
+[Azure OpenAI Services](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service) (Utilized GPT davinci model)
+[Cognitive Speech Services](https://azure.microsoft.com/en-us/products/cognitive-services/speech-services/)
+[Cognitive Service for Vision](https://azure.microsoft.com/en-us/products/cognitive-services/vision-services)
+
+**Libraries/SDK**
+[Semantic Kernel SDK](https://github.com/microsoft/semantic-kernel)
+[FFmpeg](https://ffmpeg.org/)
+
+**Deployment**
+Azure Functions
+Azure Storage (Blob storage container)
 ## Misc
 Handwritten Proposal of Audio-description generation proposal (for vidoes) by Sofia
 [Link](https://github.com/hadeelalii/team-OrcaBox/blob/main/Document/Video%20Description%20Generation.pdf)
