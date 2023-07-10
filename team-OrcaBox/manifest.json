@@ -2,7 +2,21 @@
   "manifest_version": 3,
   "name": "OrcaBox Tool",
   "version": "1.0",
-  "permissions": ["scripting", "activeTab"],
+  "permissions": [
+    "scripting",
+    "activeTab",
+    "storage",
+    "http://*/",
+    "https://*/",
+    "https://nodefuncttest.azurewebsites.net",
+    "https://*.nodefuncttest.azurewebsites.net/",
+    "https://*.computervision20230708184948.azurewebsites.net/",
+    "https://descriptiongeneration.azurewebsites.net/"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {}
+  },
   "background": {
     "service_worker": "service-worker.js"
   },

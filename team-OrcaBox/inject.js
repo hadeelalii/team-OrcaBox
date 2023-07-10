@@ -165,9 +165,19 @@ document.addEventListener("click", (event) => {
   }
 });
 
-chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+// Function to play audio in the active tab
+function playAudio(audioUrl) {
+  const audio = new Audio(audioUrl);
+  audio.play();
+}
+
+chrome.runtime.onMessage.addListener(async (request, sender, sendResponse) => {
   if (request.action === "getImages") {
     const imageUrls = getImageUrls();
     sendResponse({ urls: imageUrls });
+    if (imageUrls.length > 0) {
+      const audioUrl = await main(imageUrls[0]);
+      playAudio(audioUrl);
+    }
   }
 });
