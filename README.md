@@ -30,6 +30,9 @@ Note that to fit the structure of an Edge Extension, some additional infrastruct
 1. Azure Functions to turn every CognitiveService-based feature into an endpoint that can accept HTTP requests.
 2. Deployment of an Azure Storage Blob Container to store the generated audio files.
 
+Looking forward
+1. Need to have remaining secrets stored in an Azure Keyvault
+2. Deploy a custom App Service Domain to host all function apps created under a shared domain
 
 ## Repository Info
 
