@@ -35,8 +35,8 @@ namespace FunctionApp6
             var builder = new KernelBuilder();
             builder.WithAzureTextCompletionService(
                 "text-davinci-003",
-                "https://cpe-prototype-openaiservice.openai.azure.com/",
-                "bc253a5126094293ad485d5c830c1239");
+                "<url>",
+                "<key>");
 
             var kernel = builder.Build();
 
