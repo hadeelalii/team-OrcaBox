@@ -44,5 +44,8 @@ Note that to fit the structure of an Edge Extension, some additional infrastruct
 
 
 ## Misc
-Handwritten Proposal of Audio-description generation proposal by Sofia
+Handwritten Proposal of Audio-description generation proposal (for vidoes) by Sofia
 [Link](https://github.com/hadeelalii/team-OrcaBox/blob/main/Document/Video%20Description%20Generation.pdf)
+
+**Proof-of-concept Files Created for video-based Audio-description Generation**
+[Link]([https://github.com/hadeelalii/team-OrcaBox/blob/main/Document/Video%20Description%20Generation.pdf](https://github.com/hadeelalii/team-OrcaBox/tree/main/Misc)https://github.com/hadeelalii/team-OrcaBox/tree/main/Misc)
