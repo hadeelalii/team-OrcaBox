@@ -12,5 +12,8 @@
       "js": ["inject.js"],
       "run_at": "document_end"
     }
-  ]
+  ],
+  "icons": {
+    "128": "Icons/IconOrcaBox128x128.png"
+  }
 }
